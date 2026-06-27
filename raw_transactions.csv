@@ -1,0 +1,701 @@
+sender_name,sender_age,receiver_name,amount,method,location,distance_km,timestamp,status,needed_assistance
+Nomvula Dlamini,71,Thandeka Radebe,254.23,Cash Send (In-Store),Shoprite Diepsloot,4.1,2025-06-09 07:24:00,Completed,True
+Johannes van Wyk,70,Bongani Botha,373.46,ATM Cash Send,Shoprite Soshanguve,9.0,2025-05-26 02:59:00,Completed,False
+Joseph Radebe,75,Lwazi Dlamini,94.07,Cash Send (In-Store),Pick n Pay Sandton,7.9,2025-05-27 09:13:00,Completed,False
+Sipho Buthelezi,29,Andile van Wyk,1426.5,ATM Cash Send,Shoprite Diepsloot,4.7,2025-05-23 23:06:00,Completed,False
+Lindiwe Zulu,22,Palesa Mthembu,-218.16,ATM Cash Send,Shoprite Bramley,1.6,2025-02-10 02:48:00,Completed,False
+Thabo Molefe,28,Thandeka Radebe,678.43,Bank App Transfer,Shoprite Bramley,7.2,2025-07-01 01:25:00,Completed,False
+Sipho Buthelezi,29,Nkosana Nkosi,284.48,EFT,Pick n Pay Sandton,5.4,2025-05-30 00:51:00,Completed,False
+Karabo Sefolo,26,Refilwe Sithole,550.83,Bank App Transfer,Pick n Pay Sandton,1.2,2025-06-18 07:53:00,Completed,False
+Beauty Nkosi,66,Palesa Mthembu,388.34,Cash Send (In-Store),Checkers Midrand,4.5,2025-01-28 07:38:00,Completed,False
+Nomvula Dlamini,71,Andile van Wyk,154.75,Cash Send (In-Store),Checkers Midrand,7.9,2025-04-11 06:34:00,Failed,True
+Naledi Mokwena,27,Mandla Ndlovu,230.21,Bank App Transfer,Shoprite Soweto,5.6,2025-03-29 15:59:00,Completed,False
+Beauty Nkosi,66,Lwazi Dlamini,248.08,EFT,Checkers Midrand,9.0,2025-01-14 05:47:00,Completed,False
+Naledi Mokwena,27,Palesa Mthembu,295.92,Cash Send (In-Store),Shoprite Soshanguve,1.9,2025-06-01 16:24:00,Completed,False
+Petrus Mokoena,,Andile van Wyk,162.3,Cash Send (In-Store),Shoprite Soshanguve,9.4,2025-01-23 16:13:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,381.44,Cash Send (In-Store),Checkers Midrand,5.4,2025-03-30 15:57:00,Completed,False
+Zanele Cele,30,Sibusiso Khumalo,924.21,Bank App Transfer,Shoprite Diepsloot,2.0,2025-03-29 03:11:00,Completed,False
+Johannes van Wyk,70,Sibusiso Khumalo,183.23,Bank App Transfer,Pick n Pay Sandton,7.6,2025-03-29 08:56:00,Completed,False
+Karabo Sefolo,26,Mandla Ndlovu,378.21,ATM Cash Send,Shoprite Soshanguve,7.2,2025-06-20 10:15:00,Completed,False
+David Mthembu,72,Boitumelo Mahlangu,345.51,Cash Send (In-Store),Shoprite Bramley,5.7,2025-06-04 00:42:00,Failed,True
+Petrus Mokoena,68,Lerato Molefe,-166.74,Cash Send (In-Store),Shoprite Soweto,3.7,2025-02-12 00:35:00,Completed,False
+Samuel Mahlangu,73,Nkosana Nkosi,116.51,Bank App Transfer,Shoprite Bramley,9.5,2025-05-03 23:44:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,184.63,Cash Send (In-Store),Pick n Pay Sandton,11.8,2025-03-05 16:21:00,Completed,False
+Naledi Mokwena,27,Lwazi Dlamini,470.1,Bank App Transfer,Shoprite Soshanguve,2.3,2025-06-21 17:58:00,Completed,False
+Sarah Botha,24,Lwazi Dlamini,663.35,EFT,Shoprite Tembisa,5.4,2025-06-17 09:19:00,Completed,False
+Samuel Mahlangu,73,Lwazi Dlamini,346.27,Cash Send (In-Store),Shoprite Tembisa,10.7,2025-04-07 03:25:00,COMPLETED  ,True
+Petrus Mokoena,68,Lwazi Dlamini,147.47,ATM Cash Send,Shoprite Alex,7.1,2025-05-27 22:15:00,Completed,False
+Karabo Sefolo,26,Lerato Molefe,122.99,Bank App Transfer,Shoprite Soshanguve,3.0,2025-03-29 05:02:00,Failed,False
+Naledi Mokwena,27,Nkosana Nkosi,1026.21,Bank App Transfer,Shoprite Bramley,1.8,2025-02-17 01:02:00,Completed,False
+Joseph Radebe,75,Bongani Botha,66.41,Bank App Transfer,Checkers Midrand,5.8,2025-04-09 02:20:00,Completed,False
+Johannes van Wyk,70,Bongani Botha,54.46,Bank App Transfer,Pick n Pay Sandton,3.3,2025-05-29 02:05:00,Completed,False
+Elsie Ndlovu,67,Lwazi Dlamini,123.38,Bank App Transfer,Shoprite Soshanguve,10.1,2025-01-19 08:50:00,Pending,False
+Sipho Buthelezi,29,Bongani Botha,944.92,EFT,Shoprite Soweto,3.2,2025-01-26 00:32:00,Completed,False
+Maria Khumalo,69,Bongani Botha,247.98,Cash Send (In-Store),Shoprite Soshanguve,5.6,2025-01-28 09:14:00,Completed,True
+Karabo Sefolo,26,Palesa Mthembu,1045.69,Cash Send (In-Store),Shoprite Bramley,1.3,2025-01-14 13:25:00,Completed,False
+Sipho Buthelezi,29,Andile van Wyk,614.42,EFT,Shoprite Soshanguve,0.6,2025-06-22 23:06:00,Failed,False
+Sipho Buthelezi,29,Boitumelo Mahlangu,824.84,Bank App Transfer,Checkers Midrand,6.0,2025-01-18 21:35:00,Completed,False
+Karabo Sefolo,26,Lwazi Dlamini,618.53,EFT,Checkers Midrand,0.8,2025-05-16 15:51:00,Completed,False
+Johannes van Wyk,70,Palesa Mthembu,382.92,Cash Send (In-Store),Checkers Midrand,6.5,2025-05-01 17:34:00,Completed,True
+Anna Pretorius,33,Andile van Wyk,466.33,Bank App Transfer,Shoprite Soshanguve,3.1,2025-05-19 14:48:00,Completed,True
+Elsie Ndlovu,67,Nkosana Nkosi,82.7,Cash Send (In-Store),Shoprite Soweto,8.6,2025-05-29 10:42:00,Completed,False
+Nomvula Dlamini,71,Refilwe Sithole,324.42,Cash Send (In-Store),Checkers Midrand,6.8,2025-06-28 02:12:00,Completed,True
+Sarah Botha,24,Palesa Mthembu,1140.87,EFT,Shoprite Bramley,7.2,2025-04-06 05:03:00,Completed,False
+Petrus Mokoena,68,Boitumelo Mahlangu,-196.19,Cash Send (In-Store),Checkers Midrand,3.6,2025-03-28 12:39:00,Completed,True
+Johannes van Wyk,70,Sibusiso Khumalo,154.09,Cash Send (In-Store),Shoprite Soweto,3.4,2025-05-29 02:03:00,Completed,True
+Lindiwe Zulu,22,Nkosana Nkosi,1270.87,Bank App Transfer,Shoprite Diepsloot,3.2,2025-01-28 21:05:00,Completed,False
+David Mthembu,72,Nkosana Nkosi,358.86,Cash Send (In-Store),Shoprite Alex,9.4,2025-04-04 12:03:00,Completed,True
+Karabo Sefolo,26,Lwazi Dlamini,964.59,EFT,Pick n Pay Sandton,1.4,2025-02-27 17:21:00,Completed,False
+Maria Khumalo,69,Lerato Molefe,295.25,Cash Send (In-Store),Shoprite Soweto,6.5,2025-05-12 02:07:00,Completed,True
+Johannes van Wyk,70,Nkosana Nkosi,388.5,Cash Send (In-Store),Shoprite Bramley,9.0,2025-02-26 09:51:00,Failed,True
+Pieter Smit,35,Boitumelo Mahlangu,822.91,Bank App Transfer,Shoprite Alex,7.8,2025-06-16 20:54:00,Completed,False
+Thabo Molefe,28,Mandla Ndlovu,1323.17,Bank App Transfer,Shoprite Tembisa,5.0,2025-01-27 17:59:00,Completed,False
+Samuel Mahlangu,73,Sibusiso Khumalo,190.16,Cash Send (In-Store),Shoprite Soweto,9.7,2025-01-28 04:20:00,Completed,True
+Anna Pretorius,33,Palesa Mthembu,381.87,Bank App Transfer,Shoprite Soshanguve,4.8,2025-04-11 11:00:00,Completed,False
+Joseph Radebe,75,Tumi Mokoena,207.49,Cash Send (In-Store),Pick n Pay Sandton,9.0,2025-05-27 12:08:00,Completed,True
+Sipho Buthelezi,29,Tumi Mokoena,254.44,EFT,Pick n Pay Sandton,1.5,2025-04-03 21:35:00,Completed,False
+Kagiso Tau,31,Nkosana Nkosi,1372.6,Bank App Transfer,Shoprite Tembisa,6.3,2025-06-18 05:58:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,594.19,Cash Send (In-Store),Shoprite Soshanguve,6.6,2025-06-03 17:11:00,Completed,False
+Thabo Molefe,28,Lerato Molefe,236.78,Cash Send (In-Store),Shoprite Alex,1.3,2025-04-25 14:46:00,Completed,False
+Thabo Molefe,28,Lwazi Dlamini,561.76,Bank App Transfer,Shoprite Soweto,3.4,2025-01-02 01:49:00,Completed,False
+Elsie Ndlovu,67,Boitumelo Mahlangu,139.94,Cash Send (In-Store),Shoprite Soweto,10.3,2025-03-29 12:07:00,Failed,True
+Petrus Mokoena,68,Palesa Mthembu,155.09,Cash Send (In-Store),Shoprite Soshanguve,10.2,2025-03-27 10:51:00,Completed,True
+Agnes Sithole,74,Boitumelo Mahlangu,123.28,Cash Send (In-Store),Shoprite Bramley,9.8,2025-02-11 01:48:00,Completed,False
+Samuel Mahlangu,73,Bongani Botha,98.73,Cash Send (In-Store),Checkers Midrand,4.5,2025-01-28 08:17:00,Completed,True
+Karabo Sefolo,26,Andile van Wyk,1479.43,EFT,Shoprite Tembisa,6.4,2025-05-19 02:35:00,Completed,False
+Sarah Botha,24,Boitumelo Mahlangu,845.84,Bank App Transfer,Shoprite Alex,3.5,2025-04-16 18:15:00,Completed,False
+Thabo Molefe,28,Lwazi Dlamini,451.93,Bank App Transfer,Shoprite Soweto,5.1,2025-04-27 07:47:00,Completed,False
+David Mthembu,72,Palesa Mthembu,76.86,Cash Send (In-Store),Pick n Pay Sandton,10.7,2025-06-07 23:24:00,Failed,True
+Anna Pretorius,33,Sibusiso Khumalo,1405.27,EFT,Shoprite Alex,5.7,2025-06-02 20:21:00,Completed,False
+Elsie Ndlovu,67,Nkosana Nkosi,360.44,Bank App Transfer,Shoprite Tembisa,11.7,2025-06-15 11:35:00,Completed,False
+David Mthembu,72,Bongani Botha,-72.09,Cash Send (In-Store),Shoprite Tembisa,9.9,2025-03-28 00:50:00,Failed,True
+Agnes Sithole,74,Bongani Botha,233.05,Cash Send (In-Store),Shoprite Soshanguve,9.9,2025-02-12 13:47:00,Pending,False
+Thabo Molefe,28,Tumi Mokoena,380.03,EFT,Shoprite Diepsloot,5.5,2025-01-08 09:54:00,Completed,False
+Naledi Mokwena,27,Boitumelo Mahlangu,899.97,EFT,Shoprite Soweto,7.8,2025-06-25 22:06:00,Completed,False
+Nomvula Dlamini,71,Tumi Mokoena,274.79,Cash Send (In-Store),Shoprite Soshanguve,11.2,2025-01-28 06:58:00,Completed,False
+Naledi Mokwena,27,Lerato Molefe,653.64,Bank App Transfer,Shoprite Soweto,7.2,2025-04-04 02:33:00,Completed,False
+Pieter Smit,35,Nkosana Nkosi,912.07,Bank App Transfer,Pick n Pay Sandton,6.7,2025-01-04 16:18:00,Completed,False
+Agnes Sithole,74,Lwazi Dlamini,115.21,EFT,Checkers Midrand,9.6,2025-03-16 20:00:00,Failed,False
+Elsie Ndlovu,67,Mandla Ndlovu,214.55,Cash Send (In-Store),Shoprite Bramley,8.5,2025-03-06 17:22:00,Completed,False
+Petrus Mokoena,68,Boitumelo Mahlangu,200.96,Cash Send (In-Store),Shoprite Soshanguve,8.7,2025-04-22 08:06:00,Completed,True
+Beauty Nkosi,66,Andile van Wyk,208.41,ATM Cash Send,Shoprite Bramley,8.4,2025-05-24 22:47:00,Completed,False
+Naledi Mokwena,27,Tumi Mokoena,1185.91,EFT,Shoprite Tembisa,1.0,2025-05-01 11:57:00,Completed,False
+Lindiwe Zulu,22,Nkosana Nkosi,1080.86,Bank App Transfer,Shoprite Soweto,7.3,2025-06-25 15:55:00,Completed,False
+Beauty Nkosi,66,Bongani Botha,127.3,Cash Send (In-Store),Shoprite Soweto,11.6,2025-04-28 06:44:00,Completed,True
+Zanele Cele,30,Bongani Botha,1357.11,Bank App Transfer,Shoprite Diepsloot,4.3,2025-04-19 10:04:00,Completed,False
+Agnes Sithole,74,Boitumelo Mahlangu,143.57,EFT,Shoprite Soweto,10.7,2025-06-23 20:08:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,356.69,Cash Send (In-Store),Pick n Pay Sandton,11.9,2025-04-16 14:03:00,Completed,True
+Naledi Mokwena,27,Sibusiso Khumalo,621.96,ATM Cash Send,Checkers Midrand,2.6,2025-03-31 17:55:00,Completed,False
+Thabo Molefe,28,Palesa Mthembu,334.33,EFT,Shoprite Soweto,1.0,2025-05-04 19:16:00,Completed,False
+Johannes van Wyk,70,Nkosana Nkosi,350.38,Cash Send (In-Store),Shoprite Alex,9.7,2025-04-29 08:30:00,Completed,True
+Johannes van Wyk,70,Mandla Ndlovu,283.36,Cash Send (In-Store),Shoprite Bramley,8.4,2025-04-26 00:34:00,COMPLETED  ,True
+Pieter Smit,35,Boitumelo Mahlangu,943.21,EFT,Shoprite Alex,1.2,2025-03-07 11:49:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,209.57,ATM Cash Send,Shoprite Soweto,7.4,2025-04-23 06:08:00,Pending,False
+Joseph Radebe,75,Boitumelo Mahlangu,73.9,ATM Cash Send,Pick n Pay Sandton,6.7,2025-03-27 05:32:00,Completed,False
+Pieter Smit,35,Boitumelo Mahlangu,612.97,Cash Send (In-Store),Shoprite Bramley,6.6,2025-05-30 18:57:00,Completed,False
+Karabo Sefolo,26,Nkosana Nkosi,271.19,Bank App Transfer,Shoprite Alex,6.6,2025-03-27 04:47:00,Completed,False
+Sipho Buthelezi,29,Thandeka Radebe,1357.55,Bank App Transfer,Shoprite Tembisa,3.6,2025-01-12 13:46:00,Completed,False
+Sipho Buthelezi,29,Andile van Wyk,1498.53,ATM Cash Send,Shoprite Soweto,0.6,2025-06-21 12:45:00,Completed,False
+Samuel Mahlangu,,Tumi Mokoena,373.45,Cash Send (In-Store),Shoprite Soshanguve,6.6,2025-05-08 12:43:00,Completed,True
+Joseph Radebe,75,Mandla Ndlovu,355.76,Cash Send (In-Store),Shoprite Alex,11.4,2025-06-25 04:38:00,Completed,True
+Sarah Botha,24,Tumi Mokoena,1419.36,Bank App Transfer,Shoprite Soshanguve,0.7,2025-01-14 20:31:00,Completed,False
+Thabo Molefe,,Lerato Molefe,1124.16,Bank App Transfer,Shoprite Soshanguve,6.0,2025-05-26 11:55:00,Completed,True
+Anna Pretorius,33,Sibusiso Khumalo,1477.86,Cash Send (In-Store),Shoprite Soshanguve,5.6,2025-03-18 22:33:00,Completed,False
+Karabo Sefolo,26,Lerato Molefe,660.87,Bank App Transfer,Shoprite Alex,4.9,2025-01-28 07:57:00,Completed,False
+Elsie Ndlovu,67,Refilwe Sithole,138.46,Cash Send (In-Store),Shoprite Diepsloot,3.6,2025-05-26 19:54:00,Completed,False
+Anna Pretorius,33,Lerato Molefe,483.65,Bank App Transfer,Checkers Midrand,1.1,2025-05-07 00:26:00,Completed,False
+Joseph Radebe,75,Mandla Ndlovu,282.05,Cash Send (In-Store),Checkers Midrand,3.3,2025-04-27 00:16:00,Completed,True
+Anna Pretorius,33,Andile van Wyk,-755.75,Bank App Transfer,Pick n Pay Sandton,7.0,2025-06-04 09:35:00,Completed,False
+David Mthembu,72,Thandeka Radebe,335.77,ATM Cash Send,Pick n Pay Sandton,6.2,2025-05-27 09:34:00,Completed,False
+David Mthembu,72,Bongani Botha,-306.47,Cash Send (In-Store),Shoprite Soshanguve,5.8,2025-05-29 02:58:00,Completed,False
+Sarah Botha,24,Thandeka Radebe,1374.01,EFT,Shoprite Bramley,3.2,2025-01-14 13:23:00,Completed,False
+Thabo Molefe,28,Andile van Wyk,-1218.64,EFT,Shoprite Soshanguve,7.3,2025-02-09 14:59:00,Completed,False
+Sarah Botha,,Boitumelo Mahlangu,940.55,Bank App Transfer,Checkers Midrand,2.8,2025-04-24 17:26:00,Completed,False
+Karabo Sefolo,26,Bongani Botha,1440.85,Bank App Transfer,Shoprite Tembisa,1.9,2025-04-01 18:13:00,Completed,False
+Petrus Mokoena,68,Andile van Wyk,114.22,Cash Send (In-Store),Shoprite Soshanguve,6.9,2025-01-21 01:55:00,Completed,False
+Beauty Nkosi,66,Boitumelo Mahlangu,81.31,Cash Send (In-Store),Shoprite Bramley,8.0,2025-01-11 10:11:00,Failed,True
+Maria Khumalo,69,Palesa Mthembu,-54.33,Cash Send (In-Store),Shoprite Soweto,10.7,2025-05-29 02:14:00,Completed,False
+Sipho Buthelezi,29,Tumi Mokoena,719.58,Bank App Transfer,Pick n Pay Sandton,0.8,2025-02-16 00:55:00,Completed,False
+Zanele Cele,30,Palesa Mthembu,1399.04,Cash Send (In-Store),Checkers Midrand,3.9,2025-04-10 13:29:00,Completed,False
+Kagiso Tau,31,Palesa Mthembu,782.44,Bank App Transfer,Shoprite Soweto,1.3,2025-06-22 23:35:00,Completed,False
+Elsie Ndlovu,67,Thandeka Radebe,186.9,Cash Send (In-Store),Shoprite Diepsloot,9.8,2025-05-09 13:01:00,Completed,True
+Petrus Mokoena,68,Sibusiso Khumalo,365.16,Bank App Transfer,Shoprite Bramley,10.1,2025-06-08 09:48:00,Completed,False
+Sarah Botha,24,Tumi Mokoena,136.91,Cash Send (In-Store),Shoprite Soshanguve,3.5,2025-01-22 11:39:00,Completed,False
+Nomvula Dlamini,71,Thandeka Radebe,114.53,Cash Send (In-Store),Shoprite Soshanguve,3.0,2025-05-03 20:04:00,Completed,True
+Joseph Radebe,75,Lerato Molefe,263.32,ATM Cash Send,Shoprite Tembisa,6.1,2025-05-09 05:09:00,Completed,False
+Joseph Radebe,75,Refilwe Sithole,158.58,Cash Send (In-Store),Shoprite Tembisa,8.7,2025-02-04 02:05:00,Failed,True
+Pieter Smit,35,Sibusiso Khumalo,553.9,Cash Send (In-Store),Shoprite Tembisa,3.3,2025-01-31 09:15:00,COMPLETED  ,False
+Nomvula Dlamini,71,Mandla Ndlovu,283.88,Cash Send (In-Store),Shoprite Alex,9.8,2025-06-26 01:45:00,Pending,True
+Anna Pretorius,33,Mandla Ndlovu,134.9,EFT,Shoprite Soweto,7.5,2025-02-08 03:20:00,Completed,False
+Sipho Buthelezi,29,Nkosana Nkosi,276.98,Bank App Transfer,Shoprite Soweto,4.5,2025-02-13 06:42:00,Completed,False
+Petrus Mokoena,68,Nkosana Nkosi,264.16,ATM Cash Send,Shoprite Soshanguve,9.1,2025-02-21 09:54:00,Completed,False
+Lindiwe Zulu,22,Sibusiso Khumalo,443.82,Bank App Transfer,Shoprite Tembisa,6.7,2025-04-29 21:27:00,Completed,False
+Sipho Buthelezi,29,Palesa Mthembu,1007.93,EFT,Shoprite Bramley,1.3,2025-05-15 05:17:00,Completed,False
+Anna Pretorius,33,Andile van Wyk,965.21,Bank App Transfer,Shoprite Tembisa,5.0,2025-02-08 12:10:00,Completed,False
+Petrus Mokoena,68,Lerato Molefe,-392.27,ATM Cash Send,Shoprite Bramley,4.0,2025-05-02 23:12:00,Pending,False
+Petrus Mokoena,68,Bongani Botha,-142.82,Cash Send (In-Store),Pick n Pay Sandton,4.9,2025-03-27 11:00:00,Completed,True
+Anna Pretorius,33,Bongani Botha,519.01,Bank App Transfer,Shoprite Bramley,3.3,2025-04-08 20:48:00,Completed,False
+Maria Khumalo,69,Bongani Botha,184.64,Cash Send (In-Store),Shoprite Soweto,7.1,2025-05-28 09:18:00,Completed,False
+Petrus Mokoena,68,Mandla Ndlovu,172.28,Cash Send (In-Store),Shoprite Diepsloot,9.4,2025-02-07 10:09:00,Failed,True
+Johannes van Wyk,70,Nkosana Nkosi,108.87,Cash Send (In-Store),Shoprite Diepsloot,6.8,2025-05-07 22:07:00,Completed,True
+Beauty Nkosi,66,Sibusiso Khumalo,379.24,Bank App Transfer,Shoprite Alex,3.8,2025-04-27 08:30:00,Completed,False
+Elsie Ndlovu,67,Sibusiso Khumalo,139.25,Bank App Transfer,Shoprite Tembisa,5.6,2025-04-28 01:34:00,Completed,False
+Thabo Molefe,28,Nkosana Nkosi,522.58,Bank App Transfer,Shoprite Tembisa,2.8,2025-02-26 22:20:00,Pending,True
+Thabo Molefe,28,Lerato Molefe,515.23,Cash Send (In-Store),Pick n Pay Sandton,6.1,2025-06-28 23:36:00,Completed,False
+Petrus Mokoena,68,Thandeka Radebe,128.49,Cash Send (In-Store),Shoprite Tembisa,3.5,2025-04-05 19:17:00,Completed,True
+Lindiwe Zulu,22,Lwazi Dlamini,151.41,ATM Cash Send,Shoprite Bramley,6.9,2025-06-21 04:38:00,Completed,False
+Beauty Nkosi,,Thandeka Radebe,259.09,Cash Send (In-Store),Pick n Pay Sandton,5.3,2025-04-21 19:44:00,Completed,True
+Beauty Nkosi,66,Lwazi Dlamini,208.91,Cash Send (In-Store),Shoprite Soweto,9.0,2025-06-11 01:51:00,Completed,False
+Nomvula Dlamini,71,Andile van Wyk,343.73,Cash Send (In-Store),Checkers Midrand,10.5,2025-05-28 12:47:00,Completed,False
+Petrus Mokoena,68,Mandla Ndlovu,356.74,ATM Cash Send,Shoprite Bramley,8.4,2025-02-09 10:53:00,COMPLETED  ,False
+Thabo Molefe,28,Thandeka Radebe,1043.63,Bank App Transfer,Shoprite Diepsloot,3.2,2025-06-17 08:05:00,Completed,False
+Petrus Mokoena,68,Palesa Mthembu,194.32,Cash Send (In-Store),Shoprite Bramley,7.8,2025-01-28 14:32:00,Completed,True
+Joseph Radebe,75,Lerato Molefe,269.83,Cash Send (In-Store),Pick n Pay Sandton,3.9,2025-06-28 13:13:00,Completed,True
+Nomvula Dlamini,,Thandeka Radebe,70.01,Cash Send (In-Store),Shoprite Bramley,8.0,2025-05-16 08:32:00,Completed,True
+Nomvula Dlamini,,Refilwe Sithole,169.07,Cash Send (In-Store),Shoprite Soshanguve,3.9,2025-03-24 06:22:00,Completed,False
+Karabo Sefolo,,Boitumelo Mahlangu,1099.09,EFT,Shoprite Diepsloot,7.5,2025-05-16 02:33:00,Completed,False
+Sarah Botha,24,Palesa Mthembu,325.74,Bank App Transfer,Shoprite Soshanguve,6.8,2025-01-06 09:08:00,Completed,False
+Nomvula Dlamini,71,Andile van Wyk,102.53,Cash Send (In-Store),Pick n Pay Sandton,11.3,2025-05-23 08:45:00,Completed,False
+Maria Khumalo,69,Mandla Ndlovu,239.91,ATM Cash Send,Shoprite Bramley,6.4,2025-03-30 10:28:00,Completed,False
+Sarah Botha,24,Lwazi Dlamini,498.13,ATM Cash Send,Shoprite Tembisa,5.5,2025-06-30 00:50:00,Completed,False
+Beauty Nkosi,66,Bongani Botha,185.3,ATM Cash Send,Shoprite Alex,4.0,2025-02-24 22:41:00,Completed,False
+Karabo Sefolo,26,Tumi Mokoena,1303.17,Bank App Transfer,Shoprite Tembisa,3.0,2025-04-16 17:44:00,Completed,False
+Beauty Nkosi,66,Tumi Mokoena,267.98,Cash Send (In-Store),Checkers Midrand,3.1,2025-05-08 23:01:00,Completed,False
+Nomvula Dlamini,71,Bongani Botha,170.59,Cash Send (In-Store),Shoprite Alex,3.1,2025-01-19 03:02:00,Completed,True
+Sipho Buthelezi,29,Boitumelo Mahlangu,456.33,Bank App Transfer,Shoprite Alex,6.2,2025-01-22 19:56:00,Completed,False
+David Mthembu,72,Sibusiso Khumalo,293.66,Cash Send (In-Store),Shoprite Tembisa,3.1,2025-02-10 13:58:00,Completed,True
+Sarah Botha,24,Boitumelo Mahlangu,588.06,Bank App Transfer,Shoprite Tembisa,4.8,2025-05-11 13:52:00,Completed,False
+Beauty Nkosi,66,Andile van Wyk,220.1,Cash Send (In-Store),Shoprite Alex,3.2,2025-02-02 18:30:00,Completed,False
+Anna Pretorius,33,Palesa Mthembu,1238.39,Bank App Transfer,Shoprite Soshanguve,5.1,2025-06-27 03:43:00,Completed,False
+Sipho Buthelezi,29,Nkosana Nkosi,363.11,Bank App Transfer,Shoprite Soweto,1.5,2025-01-08 03:39:00,Completed,False
+Maria Khumalo,69,Refilwe Sithole,101.08,Cash Send (In-Store),Shoprite Soweto,4.1,2025-03-30 12:04:00,Completed,True
+Beauty Nkosi,66,Boitumelo Mahlangu,90.57,ATM Cash Send,Pick n Pay Sandton,10.6,2025-01-03 21:42:00,Completed,False
+Thabo Molefe,28,Mandla Ndlovu,-708.29,Bank App Transfer,Shoprite Alex,5.7,2025-02-04 21:12:00,Completed,False
+Zanele Cele,30,Lwazi Dlamini,814.91,Bank App Transfer,Shoprite Bramley,3.6,2025-04-30 03:36:00,Completed,False
+Agnes Sithole,74,Nkosana Nkosi,375.12,Cash Send (In-Store),Checkers Midrand,9.7,2025-03-21 22:41:00,Pending,True
+Pieter Smit,35,Andile van Wyk,976.11,EFT,Shoprite Soweto,7.1,2025-01-08 18:14:00,Completed,False
+Pieter Smit,35,Nkosana Nkosi,1298.87,EFT,Checkers Midrand,5.0,2025-03-15 03:12:00,Completed,False
+Kagiso Tau,,Bongani Botha,273.29,Cash Send (In-Store),Shoprite Soweto,4.7,2025-02-19 23:36:00,Completed,False
+Joseph Radebe,75,Tumi Mokoena,337.74,Cash Send (In-Store),Shoprite Soshanguve,2.8,2025-02-26 11:25:00,Completed,False
+Agnes Sithole,74,Lerato Molefe,166.06,Cash Send (In-Store),Checkers Midrand,10.1,2025-01-28 03:32:00,Pending,False
+Anna Pretorius,33,Bongani Botha,1453.53,Bank App Transfer,Shoprite Soweto,5.0,2025-06-19 18:44:00,Completed,False
+Nomvula Dlamini,71,Bongani Botha,182.49,Cash Send (In-Store),Shoprite Alex,7.7,2025-06-09 09:23:00,Pending,True
+Johannes van Wyk,70,Refilwe Sithole,161.55,Cash Send (In-Store),Shoprite Bramley,11.5,2025-02-28 02:46:00,Completed,True
+Zanele Cele,30,Refilwe Sithole,1034.11,EFT,Shoprite Soshanguve,1.6,2025-03-25 19:39:00,Completed,False
+Anna Pretorius,33,Sibusiso Khumalo,316.38,Bank App Transfer,Shoprite Tembisa,2.2,2025-02-19 08:35:00,COMPLETED  ,False
+Zanele Cele,30,Thandeka Radebe,136.52,Bank App Transfer,Shoprite Diepsloot,1.1,2025-05-03 16:54:00,Completed,False
+Sipho Buthelezi,29,Refilwe Sithole,1047.55,Bank App Transfer,Shoprite Soshanguve,3.5,2025-05-25 02:25:00,Completed,False
+Johannes van Wyk,70,Nkosana Nkosi,167.55,Cash Send (In-Store),Shoprite Soweto,11.0,2025-02-26 06:44:00,Completed,True
+Sipho Buthelezi,29,Boitumelo Mahlangu,1062.45,Bank App Transfer,Shoprite Tembisa,6.7,2025-03-14 10:26:00,Completed,False
+Kagiso Tau,31,Nkosana Nkosi,756.88,Cash Send (In-Store),Shoprite Tembisa,0.6,2025-05-07 01:19:00,Completed,True
+Zanele Cele,,Nkosana Nkosi,199.22,Cash Send (In-Store),Shoprite Diepsloot,7.5,2025-02-23 23:59:00,Completed,False
+Zanele Cele,30,Sibusiso Khumalo,609.98,EFT,Shoprite Bramley,1.6,2025-02-09 03:48:00,Completed,False
+Anna Pretorius,33,Sibusiso Khumalo,691.55,Bank App Transfer,Checkers Midrand,3.3,2025-02-17 22:27:00,Completed,False
+Naledi Mokwena,27,Refilwe Sithole,526.56,EFT,Pick n Pay Sandton,6.1,2025-01-31 11:54:00,Completed,False
+Pieter Smit,35,Nkosana Nkosi,404.41,Cash Send (In-Store),Checkers Midrand,1.1,2025-03-26 01:11:00,Completed,False
+Maria Khumalo,69,Lerato Molefe,340.14,ATM Cash Send,Shoprite Tembisa,9.5,2025-05-15 17:42:00,Completed,False
+Elsie Ndlovu,67,Sibusiso Khumalo,311.76,Cash Send (In-Store),Pick n Pay Sandton,8.0,2025-06-14 01:04:00,Completed,True
+Anna Pretorius,33,Lerato Molefe,652.19,Bank App Transfer,Shoprite Alex,4.2,2025-06-04 23:03:00,Failed,False
+Beauty Nkosi,66,Bongani Botha,200.26,ATM Cash Send,Shoprite Bramley,7.5,2025-05-26 07:29:00,Completed,False
+Agnes Sithole,74,Bongani Botha,385.02,Cash Send (In-Store),Shoprite Soweto,5.7,2025-01-28 13:22:00,Completed,False
+Nomvula Dlamini,71,Boitumelo Mahlangu,173.79,Cash Send (In-Store),Shoprite Diepsloot,7.8,2025-06-08 19:59:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,325.7,Cash Send (In-Store),Checkers Midrand,5.0,2025-06-27 13:37:00,Completed,True
+Beauty Nkosi,66,Mandla Ndlovu,285.32,Cash Send (In-Store),Pick n Pay Sandton,8.1,2025-04-06 17:14:00,Completed,True
+Nomvula Dlamini,71,Tumi Mokoena,162.93,Cash Send (In-Store),Shoprite Soweto,9.2,2025-05-28 13:05:00,Completed,True
+Maria Khumalo,69,Palesa Mthembu,240.44,Cash Send (In-Store),Shoprite Soweto,4.3,2025-04-05 15:02:00,Completed,True
+Naledi Mokwena,27,Tumi Mokoena,850.55,ATM Cash Send,Shoprite Soweto,4.7,2025-06-06 20:25:00,Completed,False
+Nomvula Dlamini,71,Andile van Wyk,273.33,Cash Send (In-Store),Shoprite Alex,3.2,2025-01-05 01:20:00,Completed,True
+Samuel Mahlangu,73,Nkosana Nkosi,228.29,ATM Cash Send,Shoprite Soweto,9.0,2025-03-26 07:56:00,Completed,False
+Nomvula Dlamini,71,Lwazi Dlamini,93.26,Cash Send (In-Store),Checkers Midrand,4.9,2025-02-23 03:40:00,Completed,True
+Sipho Buthelezi,29,Palesa Mthembu,188.13,EFT,Shoprite Bramley,7.0,2025-03-02 03:41:00,Completed,False
+Sarah Botha,24,Andile van Wyk,136.35,EFT,Shoprite Alex,5.6,2025-06-24 13:23:00,Completed,False
+Nomvula Dlamini,71,Boitumelo Mahlangu,240.06,Bank App Transfer,Checkers Midrand,4.9,2025-02-18 15:55:00,Pending,False
+Sipho Buthelezi,29,Sibusiso Khumalo,822.62,EFT,Shoprite Soshanguve,5.6,2025-01-08 15:49:00,Failed,True
+Nomvula Dlamini,71,Sibusiso Khumalo,141.35,Cash Send (In-Store),Shoprite Tembisa,5.5,2025-06-30 06:20:00,Completed,True
+Karabo Sefolo,26,Tumi Mokoena,1181.32,Cash Send (In-Store),Pick n Pay Sandton,3.8,2025-04-11 18:42:00,Completed,False
+Petrus Mokoena,68,Palesa Mthembu,66.1,Cash Send (In-Store),Shoprite Soweto,10.1,2025-03-30 02:15:00,Failed,True
+Sipho Buthelezi,,Andile van Wyk,192.59,EFT,Shoprite Diepsloot,7.5,2025-04-24 04:31:00,Completed,False
+Sarah Botha,24,Lwazi Dlamini,878.14,Bank App Transfer,Shoprite Soweto,5.8,2025-02-05 11:53:00,Completed,False
+Zanele Cele,30,Lwazi Dlamini,1293.51,Bank App Transfer,Checkers Midrand,1.0,2025-05-21 06:45:00,Completed,False
+Beauty Nkosi,66,Boitumelo Mahlangu,341.12,Bank App Transfer,Shoprite Soshanguve,3.4,2025-06-27 12:08:00,Completed,False
+Kagiso Tau,31,Nkosana Nkosi,670.19,EFT,Shoprite Tembisa,1.8,2025-06-07 13:01:00,Completed,False
+Joseph Radebe,75,Mandla Ndlovu,272.39,Cash Send (In-Store),Shoprite Diepsloot,6.9,2025-06-16 13:08:00,Completed,True
+Pieter Smit,35,Sibusiso Khumalo,1261.24,Cash Send (In-Store),Shoprite Diepsloot,2.8,2025-05-15 12:07:00,Completed,False
+Sarah Botha,24,Boitumelo Mahlangu,1281.64,EFT,Pick n Pay Sandton,3.5,2025-03-02 01:46:00,Completed,False
+Kagiso Tau,31,Palesa Mthembu,1427.55,Bank App Transfer,Shoprite Soweto,7.4,2025-03-01 22:45:00,Completed,False
+Kagiso Tau,31,Palesa Mthembu,978.19,ATM Cash Send,Shoprite Diepsloot,2.7,2025-06-25 04:08:00,Completed,False
+David Mthembu,72,Palesa Mthembu,346.51,Cash Send (In-Store),Shoprite Bramley,3.4,2025-06-13 03:22:00,Failed,False
+Agnes Sithole,74,Nkosana Nkosi,192.67,Cash Send (In-Store),Shoprite Diepsloot,6.8,2025-03-27 06:43:00,Failed,True
+Thabo Molefe,28,Bongani Botha,403.23,EFT,Shoprite Soweto,5.0,2025-05-02 02:10:00,Failed,False
+David Mthembu,,Mandla Ndlovu,-288.12,ATM Cash Send,Shoprite Diepsloot,8.2,2025-05-15 21:45:00,COMPLETED  ,False
+Sipho Buthelezi,29,Mandla Ndlovu,1271.78,Bank App Transfer,Shoprite Diepsloot,2.6,2025-04-21 06:15:00,Completed,False
+Beauty Nkosi,,Mandla Ndlovu,314.88,ATM Cash Send,Pick n Pay Sandton,9.7,2025-02-28 01:47:00,Completed,False
+Sarah Botha,24,Palesa Mthembu,252.24,ATM Cash Send,Checkers Midrand,6.6,2025-04-08 18:41:00,COMPLETED  ,False
+Samuel Mahlangu,73,Andile van Wyk,-152.75,ATM Cash Send,Pick n Pay Sandton,11.5,2025-05-03 03:48:00,Completed,False
+Zanele Cele,30,Nkosana Nkosi,1384.17,EFT,Checkers Midrand,3.0,2025-03-25 20:01:00,Completed,False
+Anna Pretorius,33,Tumi Mokoena,158.76,EFT,Shoprite Alex,1.3,2025-06-11 20:13:00,Completed,False
+Petrus Mokoena,68,Thandeka Radebe,367.81,Cash Send (In-Store),Shoprite Soweto,6.1,2025-02-20 16:44:00,Completed,False
+Joseph Radebe,75,Mandla Ndlovu,300.67,Cash Send (In-Store),Shoprite Soweto,4.8,2025-06-27 07:20:00,Completed,False
+Sarah Botha,24,Boitumelo Mahlangu,1090.79,ATM Cash Send,Shoprite Alex,4.1,2025-06-10 19:42:00,Completed,True
+Kagiso Tau,31,Lerato Molefe,957.23,EFT,Pick n Pay Sandton,3.5,2025-01-19 09:21:00,Completed,False
+Petrus Mokoena,68,Lerato Molefe,146.56,Cash Send (In-Store),Pick n Pay Sandton,11.7,2025-04-27 17:13:00,Completed,False
+Anna Pretorius,33,Lwazi Dlamini,517.17,Cash Send (In-Store),Shoprite Alex,1.0,2025-04-16 01:42:00,Completed,False
+Elsie Ndlovu,67,Refilwe Sithole,397.5,Cash Send (In-Store),Pick n Pay Sandton,6.2,2025-02-25 12:01:00,Completed,False
+Thabo Molefe,28,Bongani Botha,1004.54,Bank App Transfer,Shoprite Tembisa,1.2,2025-05-09 09:49:00,Completed,False
+Samuel Mahlangu,73,Boitumelo Mahlangu,82.53,ATM Cash Send,Shoprite Soweto,10.2,2025-04-29 07:17:00,Failed,False
+Karabo Sefolo,26,Mandla Ndlovu,1343.24,Cash Send (In-Store),Pick n Pay Sandton,3.2,2025-02-08 23:01:00,Completed,False
+David Mthembu,,Refilwe Sithole,238.64,Cash Send (In-Store),Shoprite Diepsloot,9.6,2025-05-29 05:14:00,Completed,False
+Anna Pretorius,33,Thandeka Radebe,426.89,ATM Cash Send,Shoprite Bramley,5.6,2025-02-10 05:54:00,Failed,False
+Maria Khumalo,69,Lerato Molefe,378.67,Cash Send (In-Store),Shoprite Soshanguve,5.2,2025-02-25 20:15:00,Completed,False
+Samuel Mahlangu,73,Palesa Mthembu,327.81,Cash Send (In-Store),Shoprite Diepsloot,11.6,2025-06-18 11:32:00,Completed,False
+Zanele Cele,30,Tumi Mokoena,854.88,Bank App Transfer,Shoprite Alex,4.8,2025-06-06 20:21:00,Completed,False
+Agnes Sithole,74,Andile van Wyk,77.43,ATM Cash Send,Shoprite Tembisa,9.0,2025-06-26 13:38:00,Completed,False
+Johannes van Wyk,70,Lwazi Dlamini,288.26,ATM Cash Send,Checkers Midrand,9.4,2025-03-18 00:26:00,Completed,False
+Lindiwe Zulu,22,Boitumelo Mahlangu,519.33,Bank App Transfer,Pick n Pay Sandton,7.8,2025-02-21 23:54:00,Completed,False
+Samuel Mahlangu,73,Sibusiso Khumalo,215.57,Cash Send (In-Store),Shoprite Soshanguve,4.1,2025-05-29 00:25:00,Completed,False
+Anna Pretorius,33,Palesa Mthembu,844.67,Bank App Transfer,Shoprite Alex,6.7,2025-03-16 22:23:00,Completed,False
+Lindiwe Zulu,22,Boitumelo Mahlangu,130.98,Cash Send (In-Store),Shoprite Bramley,7.8,2025-03-14 12:45:00,Failed,False
+Naledi Mokwena,27,Tumi Mokoena,1083.11,EFT,Shoprite Bramley,3.5,2025-03-23 23:25:00,Completed,False
+Agnes Sithole,74,Andile van Wyk,256.36,Cash Send (In-Store),Shoprite Soshanguve,9.7,2025-01-26 22:18:00,Completed,True
+Thabo Molefe,28,Thandeka Radebe,297.73,ATM Cash Send,Shoprite Alex,3.6,2025-06-28 19:10:00,Completed,False
+Naledi Mokwena,27,Thandeka Radebe,870.33,Bank App Transfer,Shoprite Diepsloot,6.1,2025-04-03 20:25:00,Completed,True
+Johannes van Wyk,70,Boitumelo Mahlangu,207.62,Cash Send (In-Store),Shoprite Alex,7.7,2025-06-10 01:07:00,Completed,True
+Maria Khumalo,69,Bongani Botha,230.34,Cash Send (In-Store),Pick n Pay Sandton,4.0,2025-05-29 02:49:00,Failed,False
+Naledi Mokwena,27,Mandla Ndlovu,1225.6,Bank App Transfer,Shoprite Tembisa,4.8,2025-02-13 11:39:00,Failed,False
+Agnes Sithole,74,Lwazi Dlamini,314.33,Cash Send (In-Store),Shoprite Soweto,6.6,2025-01-26 03:30:00,Completed,True
+Naledi Mokwena,27,Lwazi Dlamini,-654.13,ATM Cash Send,Shoprite Soweto,2.3,2025-01-12 03:44:00,Completed,False
+Kagiso Tau,31,Thandeka Radebe,1340.1,Cash Send (In-Store),Shoprite Soweto,5.8,2025-03-20 04:20:00,Completed,False
+Sipho Buthelezi,29,Sibusiso Khumalo,417.4,EFT,Shoprite Alex,5.4,2025-06-04 20:40:00,Completed,False
+Samuel Mahlangu,73,Andile van Wyk,307.32,Cash Send (In-Store),Shoprite Alex,5.7,2025-05-28 13:41:00,Completed,True
+David Mthembu,72,Lerato Molefe,338.18,Cash Send (In-Store),Checkers Midrand,4.9,2025-03-28 14:56:00,Completed,False
+Sipho Buthelezi,29,Sibusiso Khumalo,1284.35,Bank App Transfer,Shoprite Alex,2.5,2025-03-15 18:16:00,Completed,False
+Kagiso Tau,31,Palesa Mthembu,965.72,Bank App Transfer,Shoprite Soshanguve,2.3,2025-06-16 08:11:00,Completed,False
+Petrus Mokoena,68,Palesa Mthembu,351.52,Cash Send (In-Store),Shoprite Soweto,5.0,2025-06-16 13:09:00,Completed,True
+Anna Pretorius,,Refilwe Sithole,220.67,Bank App Transfer,Shoprite Soweto,4.1,2025-02-14 11:38:00,Completed,False
+Karabo Sefolo,26,Mandla Ndlovu,1382.44,EFT,Shoprite Alex,1.4,2025-02-03 20:30:00,Completed,False
+Zanele Cele,30,Lwazi Dlamini,476.95,Bank App Transfer,Shoprite Diepsloot,7.4,2025-05-28 11:02:00,Completed,False
+Pieter Smit,35,Boitumelo Mahlangu,725.7,Bank App Transfer,Shoprite Soshanguve,1.1,2025-06-07 17:40:00,Completed,False
+Naledi Mokwena,,Refilwe Sithole,747.99,Bank App Transfer,Pick n Pay Sandton,3.2,2025-03-20 21:06:00,Completed,False
+Karabo Sefolo,26,Palesa Mthembu,194.31,Bank App Transfer,Shoprite Alex,1.2,2025-05-29 18:22:00,Completed,False
+Nomvula Dlamini,,Andile van Wyk,50.24,Cash Send (In-Store),Shoprite Bramley,11.2,2025-02-27 11:11:00,Completed,False
+Samuel Mahlangu,73,Bongani Botha,297.67,Cash Send (In-Store),Shoprite Tembisa,11.9,2025-06-06 13:23:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,1494.72,Bank App Transfer,Shoprite Soweto,3.5,2025-02-28 02:05:00,Completed,False
+Pieter Smit,35,Refilwe Sithole,1441.94,Bank App Transfer,Shoprite Diepsloot,3.1,2025-02-17 19:13:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,-902.28,Bank App Transfer,Shoprite Bramley,4.7,2025-03-29 00:30:00,COMPLETED  ,False
+Sipho Buthelezi,29,Palesa Mthembu,1498.97,Bank App Transfer,Shoprite Diepsloot,3.2,2025-03-08 21:10:00,Completed,False
+Joseph Radebe,75,Sibusiso Khumalo,384.06,Cash Send (In-Store),Shoprite Tembisa,9.8,2025-01-26 04:13:00,Completed,True
+Johannes van Wyk,70,Sibusiso Khumalo,161.54,EFT,Pick n Pay Sandton,3.4,2025-03-27 20:08:00,Completed,True
+Thabo Molefe,28,Tumi Mokoena,1064.12,Bank App Transfer,Shoprite Alex,7.5,2025-06-30 16:38:00,Completed,False
+Petrus Mokoena,68,Lwazi Dlamini,307.76,Cash Send (In-Store),Shoprite Diepsloot,8.9,2025-01-23 21:02:00,Completed,True
+Pieter Smit,35,Boitumelo Mahlangu,1030.99,EFT,Checkers Midrand,1.6,2025-05-17 00:14:00,Completed,False
+Kagiso Tau,31,Lerato Molefe,520.05,Bank App Transfer,Pick n Pay Sandton,4.7,2025-05-26 12:06:00,Completed,False
+Pieter Smit,35,Refilwe Sithole,-1459.01,EFT,Shoprite Diepsloot,6.3,2025-01-13 13:18:00,Completed,False
+David Mthembu,72,Boitumelo Mahlangu,371.37,ATM Cash Send,Shoprite Tembisa,6.3,2025-06-26 03:46:00,Pending,True
+Thabo Molefe,28,Bongani Botha,1134.55,ATM Cash Send,Shoprite Tembisa,5.4,2025-04-05 20:16:00,Completed,False
+Zanele Cele,30,Tumi Mokoena,1221.66,Bank App Transfer,Shoprite Soweto,4.1,2025-02-23 23:04:00,Completed,False
+Thabo Molefe,28,Boitumelo Mahlangu,1183.01,Bank App Transfer,Shoprite Alex,1.5,2025-03-27 17:07:00,Completed,False
+Zanele Cele,30,Lerato Molefe,503.22,Bank App Transfer,Checkers Midrand,1.9,2025-03-30 16:32:00,Completed,False
+Sarah Botha,24,Lwazi Dlamini,1399.6,EFT,Checkers Midrand,6.7,2025-05-07 10:45:00,COMPLETED  ,False
+Joseph Radebe,75,Tumi Mokoena,334.81,Cash Send (In-Store),Shoprite Soshanguve,9.2,2025-05-26 10:08:00,Completed,True
+Karabo Sefolo,26,Mandla Ndlovu,-505.76,Bank App Transfer,Shoprite Soweto,7.6,2025-05-27 18:51:00,Completed,False
+Anna Pretorius,33,Thandeka Radebe,534.55,ATM Cash Send,Shoprite Soshanguve,5.3,2025-04-30 16:14:00,Completed,False
+Beauty Nkosi,66,Mandla Ndlovu,393.09,Cash Send (In-Store),Checkers Midrand,4.8,2025-04-09 23:38:00,Failed,True
+Maria Khumalo,69,Andile van Wyk,155.65,EFT,Shoprite Tembisa,10.8,2025-01-24 21:16:00,Failed,False
+Sarah Botha,24,Refilwe Sithole,844.0,Bank App Transfer,Shoprite Bramley,6.1,2025-01-24 23:08:00,Completed,False
+Karabo Sefolo,26,Nkosana Nkosi,1218.98,Bank App Transfer,Shoprite Tembisa,4.1,2025-05-19 14:22:00,Completed,False
+Thabo Molefe,,Nkosana Nkosi,724.66,EFT,Shoprite Tembisa,2.0,2025-05-21 03:39:00,COMPLETED  ,False
+Anna Pretorius,33,Bongani Botha,736.15,Bank App Transfer,Checkers Midrand,3.7,2025-04-26 17:14:00,Completed,False
+Samuel Mahlangu,73,Mandla Ndlovu,117.29,Cash Send (In-Store),Shoprite Soweto,4.8,2025-02-27 22:18:00,Completed,False
+Lindiwe Zulu,22,Nkosana Nkosi,1059.34,Cash Send (In-Store),Shoprite Alex,7.8,2025-05-02 15:10:00,Completed,False
+Zanele Cele,30,Boitumelo Mahlangu,188.68,EFT,Shoprite Diepsloot,7.8,2025-04-10 17:43:00,COMPLETED  ,False
+Anna Pretorius,33,Bongani Botha,737.61,Bank App Transfer,Shoprite Alex,0.7,2025-02-10 19:58:00,Completed,False
+Zanele Cele,30,Boitumelo Mahlangu,1032.2,Bank App Transfer,Pick n Pay Sandton,4.5,2025-05-21 20:19:00,Completed,False
+Pieter Smit,35,Andile van Wyk,264.96,Cash Send (In-Store),Shoprite Bramley,0.6,2025-06-17 20:51:00,Completed,False
+Kagiso Tau,31,Bongani Botha,797.75,Bank App Transfer,Shoprite Soshanguve,7.0,2025-02-09 21:21:00,Completed,False
+Anna Pretorius,33,Nkosana Nkosi,1454.52,Bank App Transfer,Shoprite Tembisa,5.5,2025-03-18 23:57:00,Completed,False
+Johannes van Wyk,70,Andile van Wyk,300.61,Cash Send (In-Store),Shoprite Bramley,9.2,2025-04-28 12:55:00,COMPLETED  ,True
+Kagiso Tau,31,Sibusiso Khumalo,970.75,Bank App Transfer,Pick n Pay Sandton,1.2,2025-01-21 04:33:00,Completed,False
+Zanele Cele,30,Lwazi Dlamini,121.88,ATM Cash Send,Checkers Midrand,4.2,2025-01-02 08:59:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,59.93,ATM Cash Send,Shoprite Bramley,2.9,2025-05-28 20:13:00,Failed,False
+Kagiso Tau,31,Lerato Molefe,1177.61,Bank App Transfer,Shoprite Diepsloot,1.6,2025-04-19 07:10:00,Completed,False
+Agnes Sithole,74,Refilwe Sithole,309.34,Cash Send (In-Store),Checkers Midrand,11.7,2025-05-27 06:26:00,Completed,True
+Lindiwe Zulu,22,Lerato Molefe,1378.49,EFT,Shoprite Soweto,2.8,2025-04-23 07:22:00,Completed,False
+Sipho Buthelezi,29,Lerato Molefe,1049.19,ATM Cash Send,Checkers Midrand,7.0,2025-06-25 15:15:00,COMPLETED  ,False
+Thabo Molefe,28,Tumi Mokoena,1378.02,Bank App Transfer,Shoprite Soweto,3.2,2025-01-28 10:55:00,Completed,False
+Nomvula Dlamini,71,Tumi Mokoena,330.38,Cash Send (In-Store),Checkers Midrand,9.0,2025-02-07 04:43:00,Completed,False
+Petrus Mokoena,68,Sibusiso Khumalo,230.9,Cash Send (In-Store),Shoprite Soweto,9.8,2025-05-11 20:02:00,Completed,True
+Thabo Molefe,28,Boitumelo Mahlangu,1495.44,EFT,Shoprite Soshanguve,7.5,2025-06-04 04:51:00,Completed,True
+Zanele Cele,30,Thandeka Radebe,1033.35,Bank App Transfer,Checkers Midrand,7.6,2025-05-05 18:09:00,Completed,False
+Agnes Sithole,74,Bongani Botha,202.98,Cash Send (In-Store),Pick n Pay Sandton,10.5,2025-05-29 12:20:00,COMPLETED  ,True
+Samuel Mahlangu,73,Sibusiso Khumalo,261.12,ATM Cash Send,Shoprite Tembisa,9.1,2025-02-28 05:18:00,Completed,False
+Sipho Buthelezi,29,Lwazi Dlamini,1464.96,ATM Cash Send,Shoprite Diepsloot,2.4,2025-01-09 16:47:00,Completed,False
+Kagiso Tau,,Andile van Wyk,796.68,Cash Send (In-Store),Shoprite Soweto,4.2,2025-01-03 05:31:00,Completed,False
+Naledi Mokwena,27,Tumi Mokoena,1123.81,Bank App Transfer,Shoprite Alex,7.9,2025-03-13 21:05:00,Completed,False
+Petrus Mokoena,68,Mandla Ndlovu,337.82,Cash Send (In-Store),Shoprite Bramley,3.5,2025-06-13 09:29:00,Failed,False
+Nomvula Dlamini,71,Refilwe Sithole,86.44,Cash Send (In-Store),Shoprite Diepsloot,7.2,2025-01-27 05:20:00,Completed,True
+Joseph Radebe,75,Andile van Wyk,373.95,Cash Send (In-Store),Checkers Midrand,7.6,2025-06-21 14:27:00,Completed,True
+Zanele Cele,30,Thandeka Radebe,1483.74,Cash Send (In-Store),Shoprite Diepsloot,4.4,2025-03-27 21:37:00,Completed,False
+Anna Pretorius,33,Thandeka Radebe,619.68,Cash Send (In-Store),Shoprite Bramley,2.9,2025-05-28 23:31:00,Completed,False
+Beauty Nkosi,66,Thandeka Radebe,298.28,ATM Cash Send,Shoprite Soweto,5.1,2025-03-31 17:13:00,Completed,False
+Lindiwe Zulu,22,Lwazi Dlamini,876.59,Bank App Transfer,Shoprite Alex,6.4,2025-03-19 21:28:00,Completed,False
+Sarah Botha,24,Andile van Wyk,383.29,Bank App Transfer,Shoprite Tembisa,6.9,2025-05-10 22:52:00,Completed,False
+Agnes Sithole,74,Nkosana Nkosi,391.0,Cash Send (In-Store),Shoprite Tembisa,7.8,2025-02-03 05:48:00,Completed,True
+Kagiso Tau,31,Refilwe Sithole,1338.84,Cash Send (In-Store),Shoprite Bramley,5.4,2025-02-04 09:41:00,Completed,False
+Kagiso Tau,31,Bongani Botha,729.16,EFT,Shoprite Alex,3.2,2025-05-15 23:46:00,Completed,False
+Lindiwe Zulu,22,Bongani Botha,504.09,EFT,Checkers Midrand,6.5,2025-04-20 07:26:00,Completed,False
+Sarah Botha,,Palesa Mthembu,198.58,EFT,Shoprite Alex,6.0,2025-04-25 20:31:00,Completed,False
+Kagiso Tau,31,Lwazi Dlamini,144.54,Bank App Transfer,Shoprite Soshanguve,5.3,2025-04-10 23:33:00,Completed,False
+David Mthembu,72,Lerato Molefe,82.57,Cash Send (In-Store),Shoprite Soshanguve,4.6,2025-03-21 01:23:00,Failed,True
+Zanele Cele,30,Palesa Mthembu,1426.95,Bank App Transfer,Shoprite Soshanguve,6.0,2025-04-17 21:09:00,Completed,False
+Pieter Smit,35,Refilwe Sithole,1398.11,Bank App Transfer,Checkers Midrand,3.9,2025-06-23 19:43:00,Completed,False
+Johannes van Wyk,70,Refilwe Sithole,239.54,Cash Send (In-Store),Checkers Midrand,8.5,2025-01-03 11:48:00,Completed,False
+Petrus Mokoena,68,Palesa Mthembu,341.02,Cash Send (In-Store),Shoprite Diepsloot,11.7,2025-04-28 02:02:00,Completed,True
+Thabo Molefe,28,Palesa Mthembu,1204.12,ATM Cash Send,Shoprite Alex,2.2,2025-06-29 21:20:00,Completed,False
+Karabo Sefolo,26,Mandla Ndlovu,537.15,Bank App Transfer,Shoprite Alex,3.1,2025-06-12 08:01:00,Completed,False
+Agnes Sithole,74,Thandeka Radebe,387.86,Cash Send (In-Store),Checkers Midrand,6.1,2025-02-27 00:57:00,Completed,True
+Sarah Botha,24,Tumi Mokoena,1169.4,EFT,Shoprite Tembisa,5.4,2025-02-17 21:44:00,Completed,False
+Johannes van Wyk,70,Bongani Botha,97.42,Cash Send (In-Store),Shoprite Diepsloot,2.6,2025-05-29 12:55:00,Completed,True
+Sipho Buthelezi,29,Sibusiso Khumalo,435.39,Bank App Transfer,Shoprite Alex,6.2,2025-06-07 05:43:00,Completed,False
+Agnes Sithole,74,Boitumelo Mahlangu,213.27,Cash Send (In-Store),Shoprite Alex,5.0,2025-01-26 04:24:00,Completed,False
+Elsie Ndlovu,67,Bongani Botha,129.97,ATM Cash Send,Checkers Midrand,5.7,2025-04-26 05:27:00,Completed,False
+Zanele Cele,30,Sibusiso Khumalo,774.31,Bank App Transfer,Shoprite Soweto,2.2,2025-01-23 17:23:00,COMPLETED  ,False
+Lindiwe Zulu,22,Lwazi Dlamini,931.79,Cash Send (In-Store),Shoprite Alex,7.2,2025-02-26 01:07:00,Completed,False
+Maria Khumalo,69,Refilwe Sithole,312.56,Cash Send (In-Store),Shoprite Bramley,4.0,2025-03-28 13:03:00,Completed,False
+Elsie Ndlovu,67,Refilwe Sithole,121.26,Cash Send (In-Store),Shoprite Diepsloot,8.5,2025-04-28 14:58:00,Completed,False
+Pieter Smit,35,Thandeka Radebe,1193.12,Bank App Transfer,Shoprite Tembisa,5.1,2025-05-10 16:06:00,Completed,False
+Petrus Mokoena,68,Bongani Botha,179.75,Cash Send (In-Store),Pick n Pay Sandton,6.4,2025-02-26 19:01:00,Failed,True
+Joseph Radebe,75,Refilwe Sithole,147.54,Cash Send (In-Store),Checkers Midrand,11.6,2025-02-28 08:24:00,Completed,False
+Naledi Mokwena,,Lerato Molefe,217.99,Bank App Transfer,Shoprite Diepsloot,4.5,2025-04-11 04:47:00,Completed,False
+Elsie Ndlovu,,Lwazi Dlamini,342.11,Cash Send (In-Store),Shoprite Tembisa,8.0,2025-02-25 04:23:00,Completed,False
+Maria Khumalo,69,Sibusiso Khumalo,83.38,Cash Send (In-Store),Shoprite Alex,11.8,2025-02-25 04:24:00,Completed,True
+Naledi Mokwena,27,Sibusiso Khumalo,544.34,ATM Cash Send,Shoprite Bramley,2.4,2025-01-30 15:10:00,Completed,False
+Karabo Sefolo,26,Thandeka Radebe,1450.4,Bank App Transfer,Shoprite Bramley,0.5,2025-01-24 21:30:00,Completed,False
+Samuel Mahlangu,73,Andile van Wyk,91.97,Cash Send (In-Store),Shoprite Soshanguve,4.0,2025-07-01 02:02:00,Completed,True
+Beauty Nkosi,66,Palesa Mthembu,80.55,Cash Send (In-Store),Shoprite Soweto,6.6,2025-05-12 13:01:00,Completed,True
+Beauty Nkosi,66,Boitumelo Mahlangu,348.12,Cash Send (In-Store),Checkers Midrand,10.6,2025-04-08 21:45:00,Completed,False
+Thabo Molefe,28,Boitumelo Mahlangu,832.57,Bank App Transfer,Shoprite Diepsloot,2.4,2025-05-05 02:09:00,Completed,False
+Karabo Sefolo,26,Refilwe Sithole,398.13,EFT,Shoprite Tembisa,7.7,2025-05-01 00:40:00,Completed,False
+Nomvula Dlamini,71,Andile van Wyk,-238.92,Cash Send (In-Store),Checkers Midrand,9.7,2025-02-05 18:14:00,Completed,False
+Maria Khumalo,69,Palesa Mthembu,-186.5,Cash Send (In-Store),Pick n Pay Sandton,11.0,2025-05-19 04:34:00,Completed,False
+Naledi Mokwena,27,Nkosana Nkosi,896.13,Bank App Transfer,Shoprite Tembisa,2.6,2025-01-30 02:29:00,Completed,False
+Petrus Mokoena,68,Thandeka Radebe,333.9,Cash Send (In-Store),Shoprite Bramley,11.5,2025-02-25 08:48:00,Completed,True
+Karabo Sefolo,26,Thandeka Radebe,161.47,EFT,Checkers Midrand,1.8,2025-03-28 04:42:00,Completed,False
+Karabo Sefolo,26,Lerato Molefe,732.25,EFT,Shoprite Bramley,6.7,2025-01-11 23:33:00,Completed,False
+Sarah Botha,24,Andile van Wyk,646.96,EFT,Shoprite Soshanguve,1.8,2025-01-20 09:17:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,306.9,Cash Send (In-Store),Shoprite Tembisa,5.3,2025-01-29 13:49:00,Completed,False
+Pieter Smit,35,Mandla Ndlovu,960.01,Bank App Transfer,Pick n Pay Sandton,4.2,2025-06-11 20:51:00,Failed,False
+Johannes van Wyk,70,Refilwe Sithole,317.13,Cash Send (In-Store),Checkers Midrand,8.7,2025-03-21 23:46:00,Completed,False
+Elsie Ndlovu,,Palesa Mthembu,57.36,Cash Send (In-Store),Shoprite Diepsloot,7.8,2025-01-02 18:40:00,Completed,True
+Beauty Nkosi,66,Palesa Mthembu,205.37,Cash Send (In-Store),Checkers Midrand,6.7,2025-04-01 21:17:00,Completed,False
+Nomvula Dlamini,71,Boitumelo Mahlangu,55.52,ATM Cash Send,Shoprite Diepsloot,5.0,2025-04-26 11:04:00,Completed,False
+Anna Pretorius,33,Sibusiso Khumalo,927.36,Cash Send (In-Store),Shoprite Diepsloot,6.4,2025-04-23 03:21:00,Completed,False
+Agnes Sithole,74,Mandla Ndlovu,103.49,Cash Send (In-Store),Shoprite Bramley,4.0,2025-06-02 13:24:00,Failed,True
+Pieter Smit,35,Nkosana Nkosi,259.37,Bank App Transfer,Pick n Pay Sandton,3.0,2025-04-13 02:39:00,Completed,False
+Thabo Molefe,28,Tumi Mokoena,193.41,EFT,Shoprite Soshanguve,6.1,2025-05-29 22:27:00,Pending,False
+Karabo Sefolo,26,Tumi Mokoena,263.81,Bank App Transfer,Shoprite Soweto,4.3,2025-03-08 04:52:00,Completed,False
+Lindiwe Zulu,22,Lwazi Dlamini,450.97,Bank App Transfer,Pick n Pay Sandton,0.8,2025-06-30 21:18:00,Completed,False
+Maria Khumalo,69,Tumi Mokoena,178.65,Cash Send (In-Store),Shoprite Alex,5.3,2025-02-26 01:33:00,Completed,True
+Zanele Cele,30,Thandeka Radebe,537.42,Bank App Transfer,Shoprite Soshanguve,6.6,2025-06-22 02:05:00,Completed,False
+Maria Khumalo,69,Refilwe Sithole,371.87,Cash Send (In-Store),Shoprite Soweto,9.9,2025-06-27 05:54:00,Completed,True
+Sarah Botha,24,Mandla Ndlovu,1275.33,Bank App Transfer,Shoprite Alex,1.6,2025-01-08 23:56:00,Completed,False
+Sipho Buthelezi,29,Boitumelo Mahlangu,814.46,EFT,Shoprite Diepsloot,0.8,2025-05-17 16:19:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,154.93,Cash Send (In-Store),Shoprite Soshanguve,10.2,2025-06-25 06:37:00,Completed,True
+Anna Pretorius,33,Nkosana Nkosi,743.72,Bank App Transfer,Pick n Pay Sandton,5.0,2025-01-06 07:08:00,Completed,False
+Beauty Nkosi,66,Andile van Wyk,116.55,Cash Send (In-Store),Pick n Pay Sandton,4.9,2025-06-19 05:08:00,Completed,False
+Johannes van Wyk,70,Mandla Ndlovu,199.23,Cash Send (In-Store),Shoprite Tembisa,6.9,2025-06-11 10:40:00,Completed,False
+Sipho Buthelezi,29,Sibusiso Khumalo,132.16,EFT,Shoprite Diepsloot,4.7,2025-06-06 19:58:00,Completed,False
+Maria Khumalo,69,Lerato Molefe,155.33,Cash Send (In-Store),Shoprite Tembisa,7.7,2025-03-28 06:50:00,Completed,True
+Thabo Molefe,28,Tumi Mokoena,1161.89,Bank App Transfer,Shoprite Soweto,5.3,2025-02-23 14:12:00,Completed,False
+Karabo Sefolo,26,Palesa Mthembu,544.24,EFT,Shoprite Soshanguve,4.5,2025-02-06 11:20:00,Completed,True
+Sipho Buthelezi,29,Refilwe Sithole,-428.48,ATM Cash Send,Shoprite Bramley,2.4,2025-06-29 18:13:00,Completed,False
+Maria Khumalo,69,Mandla Ndlovu,280.24,EFT,Shoprite Bramley,9.1,2025-03-29 14:21:00,Completed,False
+Samuel Mahlangu,73,Andile van Wyk,359.2,Bank App Transfer,Shoprite Soweto,2.8,2025-03-04 20:31:00,Completed,False
+Joseph Radebe,75,Lerato Molefe,263.98,Cash Send (In-Store),Checkers Midrand,10.7,2025-02-04 03:31:00,Completed,True
+Naledi Mokwena,,Nkosana Nkosi,187.34,ATM Cash Send,Shoprite Alex,3.4,2025-01-16 23:16:00,Completed,False
+Sipho Buthelezi,29,Palesa Mthembu,505.7,EFT,Shoprite Alex,3.5,2025-02-03 12:30:00,Completed,False
+Johannes van Wyk,70,Lwazi Dlamini,115.86,Cash Send (In-Store),Shoprite Bramley,9.7,2025-05-24 16:13:00,Failed,False
+Agnes Sithole,74,Thandeka Radebe,320.5,Cash Send (In-Store),Shoprite Alex,7.2,2025-05-29 23:59:00,Completed,False
+Johannes van Wyk,70,Lerato Molefe,285.3,ATM Cash Send,Shoprite Bramley,5.1,2025-02-28 08:41:00,Pending,False
+Beauty Nkosi,66,Boitumelo Mahlangu,230.82,Cash Send (In-Store),Shoprite Soweto,4.3,2025-04-29 08:48:00,Completed,True
+Samuel Mahlangu,,Refilwe Sithole,188.69,Cash Send (In-Store),Shoprite Diepsloot,3.0,2025-02-25 06:54:00,Pending,True
+David Mthembu,72,Mandla Ndlovu,289.54,Cash Send (In-Store),Shoprite Alex,5.2,2025-01-29 01:48:00,Completed,False
+Karabo Sefolo,26,Thandeka Radebe,1481.74,Bank App Transfer,Shoprite Soweto,1.3,2025-01-17 00:16:00,Completed,False
+Samuel Mahlangu,73,Lerato Molefe,324.36,ATM Cash Send,Shoprite Bramley,6.9,2025-02-28 07:00:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,320.3,Bank App Transfer,Shoprite Diepsloot,5.0,2025-01-31 19:26:00,COMPLETED  ,False
+Johannes van Wyk,70,Lwazi Dlamini,204.36,Cash Send (In-Store),Shoprite Alex,6.5,2025-02-28 08:49:00,Completed,False
+Zanele Cele,30,Palesa Mthembu,1495.59,EFT,Pick n Pay Sandton,6.8,2025-04-17 04:27:00,Completed,False
+David Mthembu,72,Bongani Botha,246.31,Cash Send (In-Store),Shoprite Tembisa,12.0,2025-04-28 02:29:00,Completed,False
+Elsie Ndlovu,67,Palesa Mthembu,196.73,Cash Send (In-Store),Shoprite Soweto,8.6,2025-03-06 04:34:00,Completed,False
+Kagiso Tau,31,Andile van Wyk,770.75,Bank App Transfer,Pick n Pay Sandton,4.1,2025-01-10 18:30:00,Failed,False
+Kagiso Tau,31,Palesa Mthembu,111.79,EFT,Shoprite Soshanguve,5.6,2025-04-08 16:20:00,Completed,False
+Agnes Sithole,74,Refilwe Sithole,249.29,EFT,Pick n Pay Sandton,11.1,2025-03-28 12:05:00,Completed,False
+Naledi Mokwena,27,Lerato Molefe,425.74,ATM Cash Send,Shoprite Alex,7.9,2025-06-15 23:51:00,Completed,False
+Maria Khumalo,69,Palesa Mthembu,314.23,Cash Send (In-Store),Checkers Midrand,3.6,2025-03-30 08:42:00,Completed,True
+Pieter Smit,35,Palesa Mthembu,1391.77,Bank App Transfer,Shoprite Alex,2.6,2025-04-21 07:42:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,1012.89,Bank App Transfer,Checkers Midrand,2.5,2025-03-11 22:06:00,COMPLETED  ,False
+Maria Khumalo,69,Andile van Wyk,161.98,Cash Send (In-Store),Checkers Midrand,10.3,2025-02-01 00:57:00,Failed,True
+Samuel Mahlangu,73,Mandla Ndlovu,380.9,Cash Send (In-Store),Shoprite Soshanguve,2.9,2025-06-18 18:29:00,Completed,False
+Sipho Buthelezi,29,Sibusiso Khumalo,659.55,EFT,Shoprite Soweto,4.4,2025-06-07 06:57:00,Completed,False
+Anna Pretorius,33,Lwazi Dlamini,150.21,ATM Cash Send,Shoprite Bramley,2.5,2025-06-30 19:07:00,Completed,False
+Joseph Radebe,75,Nkosana Nkosi,280.44,ATM Cash Send,Shoprite Bramley,5.4,2025-05-11 20:25:00,Failed,False
+Anna Pretorius,33,Lwazi Dlamini,257.49,Bank App Transfer,Shoprite Soshanguve,5.9,2025-02-07 12:05:00,Completed,False
+Maria Khumalo,69,Tumi Mokoena,378.91,Cash Send (In-Store),Checkers Midrand,9.6,2025-04-28 00:05:00,Completed,True
+Johannes van Wyk,70,Lerato Molefe,61.24,Cash Send (In-Store),Shoprite Bramley,5.5,2025-02-27 03:41:00,Completed,True
+Maria Khumalo,69,Refilwe Sithole,341.67,Cash Send (In-Store),Shoprite Diepsloot,10.2,2025-06-25 06:01:00,Completed,True
+Naledi Mokwena,27,Bongani Botha,764.8,EFT,Pick n Pay Sandton,2.3,2025-03-14 08:59:00,Completed,False
+Beauty Nkosi,66,Tumi Mokoena,386.41,Cash Send (In-Store),Shoprite Diepsloot,11.7,2025-03-27 00:58:00,Completed,True
+Zanele Cele,30,Bongani Botha,762.42,Bank App Transfer,Shoprite Soweto,1.8,2025-01-14 20:51:00,Completed,False
+Petrus Mokoena,68,Sibusiso Khumalo,137.22,Cash Send (In-Store),Shoprite Soshanguve,10.6,2025-04-28 12:57:00,Completed,True
+Sarah Botha,24,Refilwe Sithole,395.19,EFT,Shoprite Soweto,4.3,2025-03-24 06:21:00,Completed,False
+Lindiwe Zulu,,Lerato Molefe,1318.28,Bank App Transfer,Shoprite Soshanguve,4.5,2025-05-29 23:04:00,Failed,True
+Zanele Cele,30,Andile van Wyk,472.76,Bank App Transfer,Shoprite Diepsloot,3.7,2025-06-26 05:05:00,Completed,False
+Sipho Buthelezi,29,Tumi Mokoena,952.64,Cash Send (In-Store),Shoprite Diepsloot,5.9,2025-04-14 01:33:00,Completed,False
+Samuel Mahlangu,73,Mandla Ndlovu,362.85,Cash Send (In-Store),Checkers Midrand,7.6,2025-04-19 18:33:00,Completed,True
+Joseph Radebe,75,Nkosana Nkosi,104.18,Cash Send (In-Store),Shoprite Soshanguve,4.0,2025-01-28 07:50:00,Completed,True
+Thabo Molefe,28,Refilwe Sithole,1351.95,ATM Cash Send,Checkers Midrand,7.2,2025-02-25 21:47:00,Completed,False
+Sarah Botha,24,Palesa Mthembu,349.82,EFT,Shoprite Diepsloot,4.2,2025-02-07 02:27:00,Completed,False
+Zanele Cele,30,Boitumelo Mahlangu,333.53,Bank App Transfer,Checkers Midrand,1.9,2025-04-13 19:42:00,COMPLETED  ,False
+Maria Khumalo,69,Tumi Mokoena,253.94,Cash Send (In-Store),Shoprite Tembisa,11.7,2025-01-26 12:18:00,Completed,False
+Petrus Mokoena,68,Lwazi Dlamini,377.68,ATM Cash Send,Checkers Midrand,10.9,2025-01-26 09:02:00,COMPLETED  ,False
+Johannes van Wyk,,Tumi Mokoena,195.52,Cash Send (In-Store),Pick n Pay Sandton,4.5,2025-05-26 13:56:00,Completed,False
+Kagiso Tau,31,Refilwe Sithole,305.61,Bank App Transfer,Shoprite Bramley,1.7,2025-02-16 20:38:00,Completed,False
+Maria Khumalo,69,Andile van Wyk,376.81,Bank App Transfer,Shoprite Tembisa,9.4,2025-02-28 08:29:00,Failed,False
+Anna Pretorius,33,Boitumelo Mahlangu,295.19,Bank App Transfer,Shoprite Soshanguve,4.6,2025-03-20 12:39:00,Completed,False
+Sarah Botha,24,Andile van Wyk,1466.19,Bank App Transfer,Checkers Midrand,4.8,2025-02-06 00:50:00,Completed,False
+Pieter Smit,35,Nkosana Nkosi,1032.28,EFT,Shoprite Soshanguve,2.7,2025-02-16 03:44:00,Completed,False
+Elsie Ndlovu,67,Bongani Botha,250.08,ATM Cash Send,Shoprite Soshanguve,4.3,2025-05-09 08:28:00,Failed,False
+Nomvula Dlamini,71,Palesa Mthembu,139.29,ATM Cash Send,Shoprite Tembisa,3.5,2025-01-30 20:32:00,COMPLETED  ,True
+Kagiso Tau,31,Lerato Molefe,1079.04,ATM Cash Send,Shoprite Diepsloot,1.7,2025-02-24 20:50:00,Completed,False
+Pieter Smit,35,Boitumelo Mahlangu,1051.42,Cash Send (In-Store),Shoprite Alex,5.0,2025-05-29 01:41:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,284.44,Cash Send (In-Store),Shoprite Diepsloot,7.5,2025-01-14 13:21:00,Completed,False
+Elsie Ndlovu,67,Thandeka Radebe,80.18,Cash Send (In-Store),Shoprite Tembisa,5.4,2025-05-03 20:49:00,Completed,True
+Johannes van Wyk,70,Mandla Ndlovu,212.78,EFT,Checkers Midrand,5.2,2025-03-25 15:29:00,Completed,True
+Samuel Mahlangu,73,Tumi Mokoena,384.95,ATM Cash Send,Pick n Pay Sandton,7.4,2025-02-10 20:34:00,Completed,False
+Johannes van Wyk,70,Lwazi Dlamini,264.3,Cash Send (In-Store),Checkers Midrand,3.0,2025-06-18 19:07:00,Completed,True
+Elsie Ndlovu,67,Thandeka Radebe,399.8,Cash Send (In-Store),Shoprite Alex,11.7,2025-05-25 01:38:00,Completed,True
+David Mthembu,72,Andile van Wyk,148.62,Cash Send (In-Store),Shoprite Soshanguve,6.1,2025-02-11 22:51:00,Completed,False
+Samuel Mahlangu,73,Nkosana Nkosi,202.9,Cash Send (In-Store),Shoprite Tembisa,8.6,2025-03-28 11:35:00,Completed,False
+Joseph Radebe,75,Lwazi Dlamini,247.26,Cash Send (In-Store),Pick n Pay Sandton,7.8,2025-04-28 02:31:00,Pending,True
+Petrus Mokoena,68,Andile van Wyk,104.97,Cash Send (In-Store),Shoprite Soweto,4.2,2025-01-29 07:44:00,Completed,True
+Johannes van Wyk,70,Boitumelo Mahlangu,384.7,Cash Send (In-Store),Shoprite Alex,7.6,2025-01-27 10:40:00,Completed,False
+Maria Khumalo,69,Lwazi Dlamini,96.44,EFT,Shoprite Tembisa,3.9,2025-02-28 07:09:00,Completed,False
+Sipho Buthelezi,,Tumi Mokoena,179.03,Bank App Transfer,Pick n Pay Sandton,2.3,2025-03-02 20:37:00,Completed,False
+Maria Khumalo,69,Mandla Ndlovu,334.3,Cash Send (In-Store),Pick n Pay Sandton,8.1,2025-01-28 21:42:00,Completed,False
+Thabo Molefe,28,Mandla Ndlovu,715.38,Bank App Transfer,Shoprite Bramley,7.1,2025-03-15 15:27:00,Completed,False
+Sipho Buthelezi,29,Lwazi Dlamini,890.88,Bank App Transfer,Shoprite Bramley,3.0,2025-06-28 11:03:00,Completed,False
+Naledi Mokwena,27,Refilwe Sithole,329.3,EFT,Shoprite Soshanguve,2.2,2025-04-15 18:59:00,Completed,False
+Agnes Sithole,74,Lerato Molefe,214.77,ATM Cash Send,Shoprite Tembisa,9.5,2025-05-25 08:11:00,Completed,False
+Naledi Mokwena,27,Boitumelo Mahlangu,1144.62,Bank App Transfer,Shoprite Soweto,7.5,2025-02-19 00:12:00,Completed,False
+Johannes van Wyk,70,Sibusiso Khumalo,333.99,Cash Send (In-Store),Shoprite Soshanguve,6.2,2025-06-16 15:02:00,Completed,True
+Thabo Molefe,28,Andile van Wyk,1248.19,EFT,Shoprite Tembisa,0.6,2025-06-27 19:19:00,Completed,False
+Beauty Nkosi,66,Lwazi Dlamini,204.83,Cash Send (In-Store),Shoprite Alex,4.9,2025-02-27 14:35:00,Completed,False
+Maria Khumalo,69,Tumi Mokoena,-339.32,Cash Send (In-Store),Shoprite Tembisa,3.2,2025-03-29 07:07:00,FAILED  ,True
+Joseph Radebe,75,Thandeka Radebe,204.95,Cash Send (In-Store),Checkers Midrand,10.7,2025-03-21 00:03:00,Completed,False
+Joseph Radebe,,Andile van Wyk,293.46,Cash Send (In-Store),Shoprite Soshanguve,10.3,2025-04-19 19:30:00,Completed,True
+Nomvula Dlamini,71,Thandeka Radebe,299.68,Cash Send (In-Store),Shoprite Diepsloot,9.0,2025-05-03 06:22:00,Completed,True
+Johannes van Wyk,70,Nkosana Nkosi,294.39,Cash Send (In-Store),Shoprite Soweto,3.7,2025-06-05 21:45:00,Completed,True
+Sipho Buthelezi,29,Sibusiso Khumalo,992.5,Cash Send (In-Store),Pick n Pay Sandton,0.6,2025-02-21 21:16:00,Completed,False
+Petrus Mokoena,68,Refilwe Sithole,303.48,ATM Cash Send,Shoprite Diepsloot,11.8,2025-05-23 12:50:00,Failed,False
+Zanele Cele,30,Lerato Molefe,350.8,ATM Cash Send,Shoprite Tembisa,7.6,2025-06-18 21:47:00,Completed,False
+Nomvula Dlamini,71,Refilwe Sithole,382.31,Cash Send (In-Store),Pick n Pay Sandton,2.8,2025-04-28 05:28:00,Completed,False
+Nomvula Dlamini,,Lwazi Dlamini,150.34,Cash Send (In-Store),Shoprite Soweto,7.3,2025-04-22 08:11:00,Completed,True
+Zanele Cele,30,Refilwe Sithole,799.89,Bank App Transfer,Shoprite Alex,5.6,2025-03-29 08:40:00,Completed,False
+Sipho Buthelezi,29,Nkosana Nkosi,364.0,Bank App Transfer,Shoprite Bramley,7.1,2025-04-22 15:10:00,Completed,False
+Petrus Mokoena,68,Bongani Botha,209.86,Cash Send (In-Store),Shoprite Soweto,11.8,2025-01-26 13:11:00,Completed,False
+Zanele Cele,,Thandeka Radebe,336.1,Bank App Transfer,Pick n Pay Sandton,2.8,2025-02-27 04:41:00,Failed,False
+Joseph Radebe,,Tumi Mokoena,396.18,Bank App Transfer,Pick n Pay Sandton,7.7,2025-02-28 04:12:00,Completed,False
+Elsie Ndlovu,67,Nkosana Nkosi,260.86,ATM Cash Send,Checkers Midrand,10.3,2025-03-24 08:20:00,Completed,False
+David Mthembu,72,Sibusiso Khumalo,184.39,ATM Cash Send,Shoprite Diepsloot,6.3,2025-06-25 14:48:00,Completed,False
+Petrus Mokoena,68,Sibusiso Khumalo,177.96,Cash Send (In-Store),Pick n Pay Sandton,3.9,2025-04-13 14:02:00,Completed,True
+Karabo Sefolo,26,Boitumelo Mahlangu,320.49,EFT,Shoprite Alex,1.4,2025-06-09 22:06:00,Completed,False
+David Mthembu,72,Mandla Ndlovu,244.11,Cash Send (In-Store),Shoprite Bramley,11.4,2025-02-27 01:56:00,Completed,True
+Elsie Ndlovu,67,Boitumelo Mahlangu,208.81,Cash Send (In-Store),Pick n Pay Sandton,5.4,2025-06-26 05:07:00,Completed,False
+Johannes van Wyk,70,Palesa Mthembu,186.1,Cash Send (In-Store),Checkers Midrand,8.9,2025-02-13 02:58:00,Completed,True
+Beauty Nkosi,66,Lwazi Dlamini,318.39,ATM Cash Send,Shoprite Soshanguve,12.0,2025-01-26 19:15:00,Completed,False
+Petrus Mokoena,68,Nkosana Nkosi,249.45,ATM Cash Send,Shoprite Diepsloot,8.8,2025-04-28 02:31:00,Completed,False
+Zanele Cele,30,Andile van Wyk,477.0,Bank App Transfer,Checkers Midrand,2.9,2025-05-22 13:30:00,Failed,True
+Zanele Cele,30,Lwazi Dlamini,714.56,EFT,Shoprite Tembisa,2.0,2025-06-19 08:33:00,Completed,False
+Petrus Mokoena,68,Mandla Ndlovu,138.35,Cash Send (In-Store),Shoprite Diepsloot,5.9,2025-01-21 17:29:00,Completed,True
+Nomvula Dlamini,71,Nkosana Nkosi,360.54,EFT,Shoprite Alex,3.8,2025-06-28 09:47:00,Completed,False
+Joseph Radebe,75,Tumi Mokoena,102.45,Cash Send (In-Store),Shoprite Diepsloot,5.6,2025-01-30 19:45:00,Completed,True
+Elsie Ndlovu,67,Sibusiso Khumalo,223.15,Cash Send (In-Store),Checkers Midrand,5.6,2025-05-27 09:54:00,Failed,True
+Naledi Mokwena,27,Thandeka Radebe,510.75,EFT,Shoprite Soshanguve,5.8,2025-04-18 05:41:00,Completed,False
+Sarah Botha,24,Sibusiso Khumalo,899.36,EFT,Shoprite Tembisa,4.3,2025-02-01 00:53:00,Completed,False
+Johannes van Wyk,70,Sibusiso Khumalo,155.5,EFT,Shoprite Bramley,4.5,2025-03-29 05:07:00,Completed,True
+Agnes Sithole,74,Bongani Botha,228.06,Cash Send (In-Store),Shoprite Tembisa,3.7,2025-02-26 12:31:00,FAILED  ,True
+David Mthembu,72,Lwazi Dlamini,316.69,Bank App Transfer,Shoprite Soweto,7.3,2025-06-27 13:40:00,Pending,False
+Zanele Cele,30,Bongani Botha,956.87,Cash Send (In-Store),Shoprite Tembisa,1.2,2025-03-19 17:00:00,Completed,False
+Beauty Nkosi,66,Lerato Molefe,328.11,Cash Send (In-Store),Shoprite Soshanguve,9.8,2025-06-27 11:59:00,Completed,False
+Agnes Sithole,74,Refilwe Sithole,373.57,ATM Cash Send,Shoprite Bramley,9.9,2025-06-26 04:10:00,Completed,False
+Thabo Molefe,28,Mandla Ndlovu,340.48,Bank App Transfer,Shoprite Diepsloot,6.2,2025-01-02 18:59:00,Failed,False
+Anna Pretorius,33,Refilwe Sithole,1098.67,EFT,Checkers Midrand,5.8,2025-06-02 11:06:00,Completed,False
+Lindiwe Zulu,22,Bongani Botha,846.96,EFT,Shoprite Soshanguve,2.9,2025-05-31 13:55:00,Completed,False
+Lindiwe Zulu,22,Tumi Mokoena,1307.82,EFT,Shoprite Alex,7.9,2025-05-10 16:49:00,Completed,False
+Zanele Cele,30,Lerato Molefe,941.7,Bank App Transfer,Checkers Midrand,0.5,2025-05-21 19:40:00,Completed,False
+Elsie Ndlovu,67,Andile van Wyk,-137.09,Cash Send (In-Store),Shoprite Bramley,9.1,2025-02-25 06:32:00,Completed,True
+Kagiso Tau,31,Tumi Mokoena,248.86,EFT,Shoprite Soweto,4.5,2025-01-02 13:00:00,Completed,False
+Joseph Radebe,75,Andile van Wyk,108.73,Cash Send (In-Store),Shoprite Soweto,8.3,2025-01-31 07:10:00,Completed,False
+Anna Pretorius,33,Bongani Botha,905.37,EFT,Pick n Pay Sandton,6.8,2025-02-11 15:09:00,Completed,False
+Joseph Radebe,75,Lwazi Dlamini,214.25,Cash Send (In-Store),Shoprite Tembisa,7.2,2025-04-28 03:21:00,Completed,False
+Beauty Nkosi,66,Palesa Mthembu,212.84,Cash Send (In-Store),Shoprite Bramley,5.2,2025-01-19 18:37:00,Failed,True
+Anna Pretorius,33,Andile van Wyk,542.19,EFT,Shoprite Bramley,1.0,2025-06-16 02:30:00,Completed,False
+Zanele Cele,30,Tumi Mokoena,375.0,EFT,Shoprite Tembisa,6.0,2025-06-10 18:04:00,Completed,False
+David Mthembu,72,Tumi Mokoena,174.3,Cash Send (In-Store),Shoprite Diepsloot,8.5,2025-05-21 19:44:00,Completed,True
+Karabo Sefolo,26,Palesa Mthembu,525.48,Cash Send (In-Store),Shoprite Soweto,4.7,2025-04-29 09:50:00,Completed,True
+Elsie Ndlovu,67,Refilwe Sithole,274.11,Cash Send (In-Store),Shoprite Bramley,9.8,2025-06-02 16:06:00,Completed,False
+Pieter Smit,35,Mandla Ndlovu,209.11,Cash Send (In-Store),Shoprite Alex,2.1,2025-05-13 08:46:00,Completed,False
+Nomvula Dlamini,71,Lwazi Dlamini,87.79,EFT,Checkers Midrand,9.3,2025-01-28 09:09:00,Completed,False
+Karabo Sefolo,26,Nkosana Nkosi,-237.55,EFT,Shoprite Tembisa,7.9,2025-05-13 18:13:00,Completed,False
+Elsie Ndlovu,67,Lwazi Dlamini,344.49,Cash Send (In-Store),Shoprite Alex,3.6,2025-06-15 21:31:00,Completed,False
+Maria Khumalo,,Andile van Wyk,193.89,Cash Send (In-Store),Checkers Midrand,10.7,2025-06-25 00:25:00,Completed,False
+Nomvula Dlamini,71,Lerato Molefe,254.96,Cash Send (In-Store),Shoprite Alex,9.2,2025-05-26 04:50:00,Completed,False
+Elsie Ndlovu,67,Sibusiso Khumalo,310.28,ATM Cash Send,Shoprite Soshanguve,7.0,2025-02-27 12:49:00,Failed,False
+Naledi Mokwena,27,Andile van Wyk,431.97,EFT,Pick n Pay Sandton,3.6,2025-02-22 02:14:00,Completed,False
+Thabo Molefe,28,Sibusiso Khumalo,1075.31,Bank App Transfer,Shoprite Soshanguve,1.2,2025-05-07 10:35:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,128.62,Cash Send (In-Store),Shoprite Diepsloot,4.4,2025-02-28 09:54:00,Completed,False
+Karabo Sefolo,26,Lerato Molefe,1445.7,EFT,Shoprite Soshanguve,7.5,2025-02-11 03:02:00,Completed,False
+Samuel Mahlangu,73,Nkosana Nkosi,190.01,Cash Send (In-Store),Pick n Pay Sandton,6.7,2025-03-28 15:44:00,Completed,True
+Thabo Molefe,28,Boitumelo Mahlangu,358.3,Bank App Transfer,Shoprite Soshanguve,4.7,2025-01-09 21:22:00,Completed,False
+Zanele Cele,30,Andile van Wyk,133.58,EFT,Shoprite Diepsloot,5.2,2025-02-01 06:13:00,Completed,False
+Petrus Mokoena,68,Lwazi Dlamini,349.36,Cash Send (In-Store),Shoprite Soweto,10.7,2025-04-28 02:23:00,Pending,True
+Petrus Mokoena,68,Lwazi Dlamini,374.23,Cash Send (In-Store),Shoprite Bramley,10.6,2025-04-29 03:55:00,Pending,True
+Elsie Ndlovu,67,Sibusiso Khumalo,134.68,Cash Send (In-Store),Shoprite Alex,7.1,2025-04-28 05:10:00,Completed,False
+Agnes Sithole,74,Tumi Mokoena,379.56,Cash Send (In-Store),Shoprite Diepsloot,7.9,2025-01-11 16:26:00,Completed,False
+Nomvula Dlamini,71,Sibusiso Khumalo,190.8,Cash Send (In-Store),Checkers Midrand,8.6,2025-02-09 11:19:00,Completed,True
+Karabo Sefolo,26,Boitumelo Mahlangu,1492.39,Bank App Transfer,Shoprite Tembisa,6.2,2025-02-09 03:59:00,Completed,False
+Maria Khumalo,69,Andile van Wyk,66.44,Cash Send (In-Store),Shoprite Soweto,6.1,2025-06-27 08:03:00,Completed,True
+Petrus Mokoena,68,Mandla Ndlovu,229.64,Cash Send (In-Store),Shoprite Bramley,6.8,2025-04-28 11:01:00,Completed,True
+Kagiso Tau,31,Refilwe Sithole,533.33,ATM Cash Send,Shoprite Bramley,6.3,2025-04-25 20:11:00,Completed,False
+David Mthembu,72,Bongani Botha,51.84,ATM Cash Send,Shoprite Soshanguve,3.3,2025-02-28 01:49:00,Completed,False
+Joseph Radebe,75,Refilwe Sithole,286.73,Cash Send (In-Store),Shoprite Bramley,4.8,2025-03-30 03:34:00,Completed,True
+Pieter Smit,35,Mandla Ndlovu,1039.77,Bank App Transfer,Shoprite Soweto,1.5,2025-05-24 15:11:00,Failed,False
+Joseph Radebe,75,Andile van Wyk,196.52,Cash Send (In-Store),Checkers Midrand,7.6,2025-05-03 05:15:00,Failed,True
+Samuel Mahlangu,73,Andile van Wyk,382.36,Cash Send (In-Store),Shoprite Bramley,4.4,2025-02-26 02:30:00,Completed,False
+Sipho Buthelezi,29,Andile van Wyk,1128.11,Bank App Transfer,Shoprite Tembisa,3.1,2025-06-14 22:52:00,COMPLETED  ,False
+Thabo Molefe,28,Palesa Mthembu,564.12,Bank App Transfer,Shoprite Soshanguve,3.1,2025-03-17 12:02:00,Completed,False
+Johannes van Wyk,70,Tumi Mokoena,260.14,Cash Send (In-Store),Shoprite Soweto,3.7,2025-01-11 19:27:00,Failed,False
+Beauty Nkosi,66,Palesa Mthembu,181.4,Cash Send (In-Store),Pick n Pay Sandton,4.3,2025-04-08 19:39:00,Completed,True
+Pieter Smit,35,Tumi Mokoena,1242.36,ATM Cash Send,Shoprite Bramley,5.7,2025-02-18 19:13:00,Completed,False
+Agnes Sithole,74,Palesa Mthembu,201.48,Cash Send (In-Store),Shoprite Bramley,8.1,2025-02-16 02:11:00,Completed,False
+Agnes Sithole,74,Palesa Mthembu,263.8,Cash Send (In-Store),Checkers Midrand,4.3,2025-04-11 16:52:00,Completed,False
+Sipho Buthelezi,29,Andile van Wyk,778.53,EFT,Shoprite Alex,5.0,2025-01-23 11:32:00,Completed,False
+Pieter Smit,35,Mandla Ndlovu,744.52,Bank App Transfer,Shoprite Tembisa,1.7,2025-03-10 01:37:00,Completed,False
+Joseph Radebe,75,Boitumelo Mahlangu,368.65,ATM Cash Send,Shoprite Soshanguve,2.6,2025-06-26 01:30:00,Completed,False
+Petrus Mokoena,68,Tumi Mokoena,349.82,Cash Send (In-Store),Checkers Midrand,7.4,2025-01-05 05:39:00,Completed,True
+Kagiso Tau,31,Boitumelo Mahlangu,990.75,ATM Cash Send,Shoprite Soweto,7.7,2025-01-13 14:33:00,Completed,False
+Pieter Smit,35,Boitumelo Mahlangu,729.93,Bank App Transfer,Shoprite Soshanguve,6.6,2025-03-30 09:51:00,Completed,False
+Zanele Cele,30,Bongani Botha,498.35,EFT,Shoprite Diepsloot,6.4,2025-05-27 18:45:00,Completed,False
+Karabo Sefolo,26,Refilwe Sithole,262.49,ATM Cash Send,Shoprite Bramley,7.2,2025-04-25 00:20:00,Completed,False
+Maria Khumalo,69,Lwazi Dlamini,200.34,Cash Send (In-Store),Shoprite Diepsloot,2.5,2025-03-27 09:06:00,Completed,False
+Joseph Radebe,75,Lwazi Dlamini,137.32,Cash Send (In-Store),Shoprite Diepsloot,6.8,2025-06-30 13:23:00,Failed,False
+Thabo Molefe,28,Andile van Wyk,234.82,EFT,Shoprite Soshanguve,6.1,2025-03-08 16:35:00,Completed,False
+Beauty Nkosi,66,Refilwe Sithole,222.1,EFT,Checkers Midrand,3.4,2025-03-29 10:06:00,Completed,False
+Sarah Botha,24,Mandla Ndlovu,938.27,ATM Cash Send,Shoprite Tembisa,1.8,2025-03-25 00:52:00,Completed,False
+Petrus Mokoena,68,Refilwe Sithole,200.29,ATM Cash Send,Checkers Midrand,10.0,2025-06-25 03:35:00,Completed,False
+David Mthembu,72,Refilwe Sithole,241.73,Cash Send (In-Store),Shoprite Soweto,5.5,2025-05-22 19:12:00,Failed,True
+Sipho Buthelezi,29,Lwazi Dlamini,818.87,ATM Cash Send,Shoprite Bramley,0.9,2025-02-01 00:02:00,Completed,False
+Anna Pretorius,33,Mandla Ndlovu,679.53,EFT,Shoprite Soshanguve,6.1,2025-05-14 19:46:00,Completed,False
+Elsie Ndlovu,67,Refilwe Sithole,141.82,Cash Send (In-Store),Shoprite Diepsloot,10.7,2025-06-13 20:24:00,Completed,False
+Johannes van Wyk,70,Nkosana Nkosi,110.83,Cash Send (In-Store),Shoprite Alex,7.4,2025-04-28 08:16:00,Completed,True
+Johannes van Wyk,70,Refilwe Sithole,322.52,Cash Send (In-Store),Shoprite Tembisa,7.5,2025-03-30 00:07:00,Completed,False
+Pieter Smit,35,Refilwe Sithole,1028.39,EFT,Shoprite Soweto,2.1,2025-01-03 02:36:00,Completed,False
+David Mthembu,72,Mandla Ndlovu,90.09,Cash Send (In-Store),Shoprite Bramley,10.9,2025-06-14 12:18:00,Completed,True
+Elsie Ndlovu,67,Refilwe Sithole,127.71,ATM Cash Send,Shoprite Alex,6.8,2025-01-29 00:25:00,Pending,False
+Nomvula Dlamini,71,Mandla Ndlovu,132.25,Cash Send (In-Store),Checkers Midrand,6.9,2025-04-25 20:31:00,Completed,True
+Maria Khumalo,69,Thandeka Radebe,240.95,Cash Send (In-Store),Shoprite Soshanguve,8.6,2025-02-28 04:29:00,Failed,True
+Pieter Smit,35,Mandla Ndlovu,538.69,EFT,Checkers Midrand,3.6,2025-03-06 23:29:00,Completed,False
+Karabo Sefolo,26,Thandeka Radebe,1448.28,Bank App Transfer,Shoprite Soweto,3.9,2025-04-14 15:16:00,Completed,False
+Johannes van Wyk,70,Nkosana Nkosi,228.79,Cash Send (In-Store),Pick n Pay Sandton,6.5,2025-04-29 02:31:00,Completed,False
+David Mthembu,72,Refilwe Sithole,243.17,Cash Send (In-Store),Shoprite Soshanguve,7.7,2025-03-28 11:15:00,Completed,True
+Johannes van Wyk,70,Nkosana Nkosi,134.9,Cash Send (In-Store),Shoprite Soweto,6.0,2025-02-21 07:34:00,Completed,False
+Sipho Buthelezi,29,Thandeka Radebe,815.13,ATM Cash Send,Shoprite Tembisa,1.8,2025-06-26 01:29:00,Completed,False
+Joseph Radebe,75,Thandeka Radebe,165.45,Cash Send (In-Store),Shoprite Soweto,6.1,2025-05-09 00:43:00,Completed,True
+Kagiso Tau,31,Palesa Mthembu,1396.73,EFT,Shoprite Soweto,2.6,2025-03-10 04:48:00,Completed,False
+Beauty Nkosi,66,Lerato Molefe,277.53,Cash Send (In-Store),Shoprite Tembisa,11.6,2025-06-27 21:45:00,Pending,True
+Maria Khumalo,69,Refilwe Sithole,215.73,Cash Send (In-Store),Shoprite Tembisa,10.6,2025-06-26 12:29:00,Completed,False
+Lindiwe Zulu,22,Tumi Mokoena,605.77,Bank App Transfer,Shoprite Diepsloot,1.2,2025-04-20 01:05:00,Completed,False
+Naledi Mokwena,27,Tumi Mokoena,901.41,Cash Send (In-Store),Shoprite Alex,0.5,2025-03-28 21:47:00,Completed,False
+Karabo Sefolo,,Nkosana Nkosi,505.43,Bank App Transfer,Shoprite Alex,5.3,2025-06-08 17:44:00,Completed,False
+Pieter Smit,35,Thandeka Radebe,629.93,Bank App Transfer,Shoprite Tembisa,4.9,2025-01-20 18:24:00,Completed,False
+Naledi Mokwena,27,Andile van Wyk,993.2,EFT,Shoprite Tembisa,5.1,2025-02-13 23:54:00,Completed,False
+Anna Pretorius,33,Sibusiso Khumalo,1385.1,Cash Send (In-Store),Checkers Midrand,2.8,2025-03-02 13:55:00,Failed,False
+Samuel Mahlangu,73,Lerato Molefe,355.0,Cash Send (In-Store),Pick n Pay Sandton,6.5,2025-04-06 19:18:00,Completed,True
+Karabo Sefolo,26,Refilwe Sithole,735.71,Bank App Transfer,Shoprite Soweto,6.3,2025-05-10 23:11:00,Completed,False
+Sarah Botha,24,Nkosana Nkosi,556.56,ATM Cash Send,Shoprite Tembisa,4.0,2025-04-19 23:57:00,Completed,False
+Elsie Ndlovu,67,Andile van Wyk,-98.93,Cash Send (In-Store),Shoprite Alex,2.6,2025-02-26 11:52:00,Failed,True
+Sipho Buthelezi,29,Sibusiso Khumalo,104.63,EFT,Shoprite Alex,7.7,2025-05-04 16:34:00,Completed,False
+Samuel Mahlangu,73,Thandeka Radebe,155.11,Cash Send (In-Store),Shoprite Alex,5.4,2025-04-28 08:08:00,Completed,True
+Beauty Nkosi,,Boitumelo Mahlangu,175.84,Cash Send (In-Store),Shoprite Bramley,4.7,2025-04-30 12:25:00,Completed,False
+Karabo Sefolo,26,Refilwe Sithole,350.43,Bank App Transfer,Pick n Pay Sandton,4.9,2025-02-22 03:05:00,Completed,False
+Beauty Nkosi,66,Bongani Botha,222.83,Cash Send (In-Store),Shoprite Soweto,3.3,2025-04-28 09:16:00,Completed,True
+Pieter Smit,35,Bongani Botha,1177.95,Bank App Transfer,Checkers Midrand,6.2,2025-04-28 23:57:00,Completed,False
+Lindiwe Zulu,22,Mandla Ndlovu,774.95,Bank App Transfer,Pick n Pay Sandton,5.0,2025-05-09 22:28:00,Completed,False
+Lindiwe Zulu,22,Nkosana Nkosi,694.73,ATM Cash Send,Shoprite Tembisa,6.2,2025-01-29 07:49:00,Pending,False
+Sarah Botha,24,Andile van Wyk,109.22,Bank App Transfer,Checkers Midrand,6.8,2025-05-02 15:32:00,Completed,False
+Sipho Buthelezi,29,Sibusiso Khumalo,-931.43,Bank App Transfer,Shoprite Diepsloot,0.7,2025-03-20 13:39:00,Completed,False
+Lindiwe Zulu,22,Mandla Ndlovu,1220.05,Bank App Transfer,Checkers Midrand,6.0,2025-05-02 18:11:00,Completed,False
+Naledi Mokwena,27,Palesa Mthembu,357.24,Bank App Transfer,Shoprite Bramley,3.8,2025-06-14 08:25:00,Completed,False
+Samuel Mahlangu,73,Tumi Mokoena,256.1,Cash Send (In-Store),Shoprite Alex,7.5,2025-03-29 03:21:00,Completed,False
+Samuel Mahlangu,73,Tumi Mokoena,343.11,ATM Cash Send,Shoprite Bramley,8.1,2025-04-26 23:37:00,Failed,False
+Maria Khumalo,69,Tumi Mokoena,59.01,Cash Send (In-Store),Shoprite Soshanguve,4.1,2025-01-29 13:07:00,Completed,True
+Thabo Molefe,28,Andile van Wyk,1205.54,ATM Cash Send,Shoprite Tembisa,2.6,2025-05-21 18:54:00,Completed,True
+Zanele Cele,30,Tumi Mokoena,1231.68,Bank App Transfer,Shoprite Soweto,3.4,2025-01-16 08:21:00,Completed,False
+Anna Pretorius,33,Andile van Wyk,1254.06,Bank App Transfer,Shoprite Bramley,5.9,2025-04-12 02:36:00,Completed,False
+Thabo Molefe,28,Sibusiso Khumalo,184.15,Bank App Transfer,Shoprite Bramley,2.0,2025-06-28 19:03:00,Completed,False
+Karabo Sefolo,26,Andile van Wyk,877.59,Bank App Transfer,Shoprite Soshanguve,6.8,2025-04-04 01:09:00,Completed,False
+David Mthembu,72,Refilwe Sithole,103.95,Cash Send (In-Store),Shoprite Diepsloot,6.5,2025-04-29 09:25:00,Completed,True
+Samuel Mahlangu,73,Refilwe Sithole,54.93,Cash Send (In-Store),Shoprite Soweto,5.7,2025-06-26 02:39:00,Completed,False
+Samuel Mahlangu,73,Mandla Ndlovu,304.33,Cash Send (In-Store),Shoprite Alex,7.1,2025-06-14 14:53:00,Completed,False
+Thabo Molefe,28,Bongani Botha,628.83,Bank App Transfer,Shoprite Bramley,3.4,2025-05-27 19:31:00,Pending,False
+Zanele Cele,30,Palesa Mthembu,647.94,Bank App Transfer,Shoprite Tembisa,4.2,2025-04-08 01:22:00,Completed,False
+Agnes Sithole,74,Boitumelo Mahlangu,248.66,Cash Send (In-Store),Pick n Pay Sandton,3.3,2025-02-25 10:05:00,Completed,True
+Naledi Mokwena,27,Palesa Mthembu,289.16,Bank App Transfer,Shoprite Soweto,7.6,2025-05-19 17:38:00,COMPLETED  ,False
+Samuel Mahlangu,73,Bongani Botha,363.96,Cash Send (In-Store),Shoprite Soshanguve,2.7,2025-03-19 14:53:00,Failed,True
+Johannes van Wyk,70,Bongani Botha,299.09,Cash Send (In-Store),Shoprite Soweto,8.5,2025-03-23 12:05:00,Completed,True
+Agnes Sithole,74,Refilwe Sithole,361.97,ATM Cash Send,Checkers Midrand,6.8,2025-04-07 13:43:00,Completed,False
+Beauty Nkosi,66,Andile van Wyk,319.55,Cash Send (In-Store),Shoprite Diepsloot,3.5,2025-04-29 05:26:00,Completed,True
+Zanele Cele,30,Mandla Ndlovu,126.13,ATM Cash Send,Shoprite Soshanguve,5.4,2025-05-17 08:17:00,Completed,False
+Thabo Molefe,28,Andile van Wyk,578.68,Cash Send (In-Store),Shoprite Bramley,2.8,2025-05-08 18:44:00,Completed,False
+Zanele Cele,30,Sibusiso Khumalo,156.39,ATM Cash Send,Pick n Pay Sandton,1.6,2025-04-06 15:19:00,Completed,False
+Karabo Sefolo,26,Bongani Botha,526.9,Cash Send (In-Store),Shoprite Diepsloot,4.2,2025-02-10 11:43:00,Failed,False
+Thabo Molefe,28,Nkosana Nkosi,1292.02,Bank App Transfer,Shoprite Tembisa,2.6,2025-02-03 19:17:00,Completed,False
+Sipho Buthelezi,29,Lerato Molefe,645.39,Bank App Transfer,Shoprite Tembisa,5.0,2025-03-21 06:20:00,Completed,False
+Petrus Mokoena,68,Palesa Mthembu,118.09,Cash Send (In-Store),Shoprite Alex,3.6,2025-05-16 16:03:00,Completed,False
+Anna Pretorius,33,Boitumelo Mahlangu,373.21,Cash Send (In-Store),Shoprite Bramley,4.4,2025-03-13 09:05:00,Completed,False
+Kagiso Tau,31,Boitumelo Mahlangu,801.57,Bank App Transfer,Shoprite Soweto,1.2,2025-04-04 14:42:00,Completed,False
+Johannes van Wyk,70,Boitumelo Mahlangu,394.41,ATM Cash Send,Shoprite Bramley,11.9,2025-02-14 17:55:00,Completed,True
+Elsie Ndlovu,67,Tumi Mokoena,54.32,Cash Send (In-Store),Pick n Pay Sandton,6.4,2025-05-24 23:36:00,Failed,True
+Lindiwe Zulu,,Refilwe Sithole,1096.67,Bank App Transfer,Shoprite Alex,6.8,2025-01-31 00:29:00,Completed,False
+David Mthembu,72,Nkosana Nkosi,102.9,Cash Send (In-Store),Shoprite Soweto,9.1,2025-06-27 12:34:00,Completed,True
+David Mthembu,72,Bongani Botha,222.58,Cash Send (In-Store),Shoprite Tembisa,6.1,2025-01-27 02:50:00,Failed,False
+Joseph Radebe,75,Andile van Wyk,-265.18,Cash Send (In-Store),Shoprite Soweto,4.8,2025-06-25 08:23:00,Completed,True
+Nomvula Dlamini,71,Nkosana Nkosi,306.33,ATM Cash Send,Shoprite Bramley,3.4,2025-06-28 02:12:00,Completed,False
+Johannes van Wyk,70,Nkosana Nkosi,172.0,ATM Cash Send,Shoprite Bramley,10.3,2025-01-27 03:51:00,Completed,False
+Agnes Sithole,74,Bongani Botha,388.65,Cash Send (In-Store),Shoprite Alex,11.9,2025-01-17 22:18:00,Failed,False
+Beauty Nkosi,66,Andile van Wyk,369.02,Cash Send (In-Store),Shoprite Soshanguve,9.2,2025-06-01 01:38:00,Failed,True
+Sipho Buthelezi,29,Sibusiso Khumalo,164.15,Bank App Transfer,Checkers Midrand,5.5,2025-04-24 21:41:00,Completed,False
+Maria Khumalo,69,Mandla Ndlovu,222.1,Cash Send (In-Store),Shoprite Soshanguve,9.2,2025-02-25 09:01:00,Completed,False
+Maria Khumalo,69,Sibusiso Khumalo,276.56,ATM Cash Send,Shoprite Bramley,3.1,2025-06-28 04:16:00,Failed,False
+Sipho Buthelezi,29,Mandla Ndlovu,882.73,EFT,Shoprite Soshanguve,4.1,2025-03-20 20:49:00,Completed,False
+Agnes Sithole,74,Mandla Ndlovu,160.1,Cash Send (In-Store),Shoprite Soweto,6.8,2025-03-27 07:08:00,Completed,True
+Samuel Mahlangu,,Palesa Mthembu,230.43,Cash Send (In-Store),Shoprite Tembisa,5.6,2025-02-11 21:47:00,Completed,False
+Naledi Mokwena,27,Boitumelo Mahlangu,1495.82,Bank App Transfer,Checkers Midrand,5.4,2025-04-05 03:21:00,Completed,False
+Pieter Smit,35,Tumi Mokoena,189.54,Bank App Transfer,Shoprite Tembisa,6.6,2025-01-30 22:51:00,Completed,False
+Petrus Mokoena,68,Lwazi Dlamini,124.6,Cash Send (In-Store),Shoprite Alex,5.0,2025-01-18 23:23:00,Completed,True
+Zanele Cele,30,Bongani Botha,294.07,Bank App Transfer,Shoprite Soshanguve,5.8,2025-02-18 07:23:00,Completed,False
+Petrus Mokoena,68,Sibusiso Khumalo,335.81,ATM Cash Send,Shoprite Soshanguve,6.9,2025-02-26 00:42:00,Completed,False
+Naledi Mokwena,27,Bongani Botha,1077.88,Bank App Transfer,Shoprite Alex,4.3,2025-04-01 21:46:00,Completed,False
+Nomvula Dlamini,71,Bongani Botha,275.72,Cash Send (In-Store),Shoprite Soshanguve,5.6,2025-01-26 04:58:00,Failed,True
+Beauty Nkosi,66,Lwazi Dlamini,85.91,Cash Send (In-Store),Pick n Pay Sandton,10.5,2025-03-14 19:10:00,Completed,True
+Petrus Mokoena,68,Thandeka Radebe,72.57,Cash Send (In-Store),Shoprite Alex,11.1,2025-02-25 14:54:00,Completed,False
+Zanele Cele,30,Nkosana Nkosi,388.62,Bank App Transfer,Shoprite Soshanguve,5.3,2025-05-14 19:15:00,Completed,False
+David Mthembu,72,Boitumelo Mahlangu,250.72,Cash Send (In-Store),Shoprite Soweto,7.7,2025-04-13 00:49:00,Completed,False
+Beauty Nkosi,66,Bongani Botha,109.9,Bank App Transfer,Shoprite Alex,9.4,2025-04-28 14:40:00,COMPLETED  ,False
+Kagiso Tau,31,Thandeka Radebe,345.5,EFT,Shoprite Soweto,5.8,2025-06-20 20:10:00,Completed,False
+Lindiwe Zulu,22,Sibusiso Khumalo,1457.89,Bank App Transfer,Shoprite Alex,3.8,2025-03-08 04:03:00,Completed,False
+Sipho Buthelezi,29,Refilwe Sithole,731.37,Cash Send (In-Store),Shoprite Soweto,2.4,2025-05-31 02:29:00,Completed,False
+Sarah Botha,24,Andile van Wyk,1025.23,EFT,Shoprite Bramley,3.9,2025-03-16 21:36:00,Completed,False
+Karabo Sefolo,26,Lerato Molefe,397.86,Cash Send (In-Store),Checkers Midrand,0.8,2025-03-09 04:34:00,Completed,False
+Lindiwe Zulu,22,Tumi Mokoena,544.9,Bank App Transfer,Shoprite Alex,3.9,2025-06-07 20:44:00,Completed,False
+Samuel Mahlangu,73,Lwazi Dlamini,169.61,Cash Send (In-Store),Shoprite Tembisa,9.8,2025-02-26 01:18:00,Pending,False
+Agnes Sithole,74,Thandeka Radebe,258.8,Bank App Transfer,Shoprite Soweto,5.8,2025-04-22 23:07:00,Completed,False
