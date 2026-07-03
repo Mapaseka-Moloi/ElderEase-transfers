@@ -1,14 +1,3 @@
-"""
-STEP 4: ANALYTICS + VISUALIZATION
-===================================
-This is where we actually ask the data questions and turn the
-answers into charts. Every query below follows the same basic
-shape: SELECT columns FROM table, sometimes with WHERE (a filter)
-or GROUP BY (split into buckets, like an Excel pivot table).
-
-OUTPUT: charts/ folder containing PNG images, one per question.
-"""
-
 import sqlite3
 import os
 import matplotlib.pyplot as plt
@@ -19,11 +8,6 @@ cur = conn.cursor()
 
 os.makedirs("charts", exist_ok=True)
 
-# -----------------------------------------------------------------
-# QUESTION 1: Do elderly senders fail more often than younger senders?
-# -----------------------------------------------------------------
-# GROUP BY is_elderly, status -> split rows into buckets by BOTH
-# columns at once, then COUNT how many rows fall in each bucket.
 query1 = """
 SELECT
     CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
@@ -58,9 +42,6 @@ plt.savefig("charts/q1_failure_rate.png")
 plt.close()
 print(f"  -> Elderly fail rate: {elderly_fail_rate}% | Younger fail rate: {young_fail_rate}%\n")
 
-# -----------------------------------------------------------------
-# QUESTION 2: How much further do elderly senders travel?
-# -----------------------------------------------------------------
 query2 = """
 SELECT
     CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
@@ -88,9 +69,7 @@ plt.savefig("charts/q2_distance.png")
 plt.close()
 print()
 
-# -----------------------------------------------------------------
-# QUESTION 3: How often does an elderly sender need a third person's help?
-# -----------------------------------------------------------------
+
 query3 = """
 SELECT
     CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
@@ -118,9 +97,7 @@ plt.savefig("charts/q3_assistance.png")
 plt.close()
 print()
 
-# -----------------------------------------------------------------
-# QUESTION 4: Which method is most common, elderly vs younger?
-# -----------------------------------------------------------------
+
 query4 = """
 SELECT
     CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
@@ -154,11 +131,7 @@ plt.savefig("charts/q4_methods.png")
 plt.close()
 print()
 
-# -----------------------------------------------------------------
-# QUESTION 5: When do elderly users transact most? (by day of month)
-# -----------------------------------------------------------------
-# strftime('%d', timestamp) pulls just the DAY number out of a full
-# date+time value, e.g. "2025-05-26 07:24:00" -> "26"
+
 query5 = """
 SELECT
     strftime('%d', timestamp) AS day_of_month,
