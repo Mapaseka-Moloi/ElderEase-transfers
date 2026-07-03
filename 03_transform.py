@@ -1,37 +1,10 @@
-"""
-STEP 3: TRANSFORMATION (CLEANING)
-===================================
-The raw data has real problems: missing ages, negative amounts,
-inconsistent status text (e.g. "COMPLETED  " vs "Completed").
-
-This script uses SQL to fix those problems and saves the result
-as a NEW table called clean_transactions. We never overwrite the
-raw table -- you always keep raw data untouched, and build clean
-versions on top of it. This is standard practice: if your cleaning
-logic has a bug, you can always start over from raw data.
-"""
-
 import sqlite3
 
 conn = sqlite3.connect("transactions.db")
 cur = conn.cursor()
 
-# Drop the clean table if it already exists, so we can rebuild it
-# fresh every time we run this script during testing.
 cur.execute("DROP TABLE IF EXISTS clean_transactions")
 
-# This single SQL statement does ALL the cleaning at once:
-#
-# - TRIM(UPPER(status)) -> "COMPLETED  " becomes "COMPLETED" (no spaces, all caps)
-#   then we use CASE to turn it into a clean, consistent label
-# - sender_age: if it's missing (NULL), we fill it with 0 and flag it
-#   as "age_unknown" = 1, rather than guessing a fake age
-# - amount: if negative, we flip it positive using ABS() -- this assumes
-#   the negative was a data entry glitch, not a real refund
-# - distance_km, needed_assistance, etc. pass through unchanged, they
-#   were already clean
-# - is_elderly: a NEW calculated column. age 60+ = elderly. This is the
-#   single most important column for your whole analysis.
 query = """
 CREATE TABLE clean_transactions AS
 SELECT
@@ -58,7 +31,7 @@ FROM raw_transactions
 cur.execute(query)
 conn.commit()
 
-# quick check: how many rows made it through, and how many are flagged elderly
+ elderly
 cur.execute("SELECT COUNT(*) FROM clean_transactions")
 total = cur.fetchone()[0]
 
