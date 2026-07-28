@@ -72,6 +72,8 @@ Charts will be saved to the `charts/` folder.
 - A family-linked monitoring feature, so a relative can check transaction status without traveling
 - Real-time fraud/anomaly flagging for unusual transaction patterns
 
+
+
 ## Author
 
-Built as a solo data engineering elective project
+Mapaseka — WeThinkCode_ Data Engineering Elective Project
