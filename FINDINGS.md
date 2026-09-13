@@ -83,3 +83,17 @@ Avg distance	7.28 km	4.38 km	1.7x further
 Needed assistance	47.4%	5.4%	8.8x more often
 Primary channel	In-store (75%)	Bank App (50%)	Locked into physical
 Avg amount sent	R231	R745	3.2x smaller
+
+What This Means
+
+This data does not just describe a problem — it locates it. The friction for elderly users is not evenly distributed across the transaction process. It concentrates in three specific places:
+
+Getting to the store (distance + mobility)
+Completing the transaction without help (literacy + interface complexity)
+The in-store channel itself (ID requirements, physical process, cashier dependency)
+
+A well-designed accessibility intervention would target these three points specifically — not a general "simplify banking" approach, but a focused solution that removes the need to travel, removes the dependency on a third person, and removes the reliance on a physical in-store process.
+
+That is the product this pipeline justifies building.
+
+Report generated from ElderEase Transfers data pipeline. All data is synthetic and modelled for research and demonstration purposes.
