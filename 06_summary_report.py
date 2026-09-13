@@ -171,3 +171,27 @@ amount_results = cur.fetchall()
 for row in amount_results:
     print(f"  {row[0]:<20} avg amount: R{row[1]}")
 
+
+# -----------------------------------------------------------------
+# SECTION 7: Peak Transaction Days
+# -----------------------------------------------------------------
+print("\n📅 PEAK TRANSACTION DAYS (ELDERLY USERS)")
+print("-" * 40)
+ 
+cur.execute("""
+    SELECT
+        strftime('%d', timestamp) AS day_of_month,
+        COUNT(*) AS count
+    FROM clean_transactions
+    WHERE is_elderly = 1
+    GROUP BY day_of_month
+    ORDER BY count DESC
+    LIMIT 5
+""")
+peak_results = cur.fetchall()
+ 
+print("  Top 5 busiest days of the month for elderly senders:")
+for i, row in enumerate(peak_results, 1):
+    print(f"  {i}. Day {row[0]} — {row[1]} transactions")
+ 
+print("\n  (Spike around days 25-28 aligns with pension pay-out dates)")
