@@ -66,3 +66,20 @@ Elderly (60+)	R231.41
 Younger	R745.07
 
 Elderly senders send an average of R231 per transaction — roughly a third of what younger senders send (R745). This aligns with pension-linked behaviour: fixed monthly income, smaller regular transfers, often to children or grandchildren for school-related expenses. High transaction fees relative to small transfer amounts disproportionately affect this group.
+
+Finding 6: Transactions Spike Around Pension Pay-Out Dates
+
+Analysis of transaction timing shows a clear spike in elderly sender activity around days 25–28 of each month — aligning with South Africa's SASSA pension pay-out schedule. The top 5 busiest days for elderly senders are all within this window.
+
+This has practical implications:
+
+System load peaks at predictable times
+Support staff or assisted service counters should be prioritised during these days
+Any future digital solution should be optimised for this usage pattern
+Summary
+Metric	Elderly (60+)	Younger	Gap
+Failure rate	14.2%	4.6%	3.1x higher
+Avg distance	7.28 km	4.38 km	1.7x further
+Needed assistance	47.4%	5.4%	8.8x more often
+Primary channel	In-store (75%)	Bank App (50%)	Locked into physical
+Avg amount sent	R231	R745	3.2x smaller
