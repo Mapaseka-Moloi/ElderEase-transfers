@@ -15,3 +15,17 @@ This is useful for:
  
 OUTPUT: printed to terminal
 """
+
+
+import sqlite3
+from datetime import datetime
+ 
+conn = sqlite3.connect("transactions.db")
+cur = conn.cursor()
+ 
+print("=" * 60)
+print("   ELDEREASE TRANSFERS — PIPELINE SUMMARY REPORT")
+print(f"   Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+print("=" * 60)
+
+
