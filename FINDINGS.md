@@ -44,3 +44,18 @@ Cash Send (In-Store)	75%	10%
 ATM Cash Send	15%	10%
 Bank App Transfer	7%	50%
 EFT	3%	30%
+
+Method	Elderly (60+)	Younger
+Cash Send (In-Store)	75%	10%
+ATM Cash Send	15%	10%
+Bank App Transfer	7%	50%
+EFT	3%	30%
+
+Younger users spread their transactions fairly evenly across digital channels — bank apps and EFT together account for 80% of their transfers. Elderly users are overwhelmingly concentrated in one channel: in-store Cash Send at 75%. This single channel requires:
+
+Physical travel to a store
+Correct ID documents
+Navigating a till point process
+The receiver also traveling to collect with ID
+
+Every other channel (app, EFT) reduces or eliminates most of these requirements — but elderly users are largely not accessing them.
