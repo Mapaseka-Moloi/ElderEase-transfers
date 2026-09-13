@@ -17,3 +17,10 @@ Elderly (60+)	14.2%
 Younger	4.6%
 
 Elderly senders experience a transaction failure rate more than three times higher than younger senders. In a system handling pension-linked payments — where the sender often has no alternative and the receiver is depending on the money — a 1-in-7 failure rate is a serious accessibility problem.
+
+Finding 2: Elderly Users Travel Nearly Double the Distance
+Age Group	Average Distance to Store
+Elderly (60+)	7.28 km
+Younger	4.38 km
+
+Elderly senders travel an average of 7.28 km to reach a store that supports Cash Send — compared to 4.38 km for younger users. This is not a small inconvenience. For an elderly person with mobility limitations, walking or arranging transport for 7+ km to complete a single transaction (which may then fail) represents a significant physical and financial burden.
