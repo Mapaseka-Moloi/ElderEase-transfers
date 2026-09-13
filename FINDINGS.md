@@ -37,3 +37,10 @@ A delay (the elderly sender must wait for someone to be available)
 An additional burden on the helper, who may have their own obligations
 
 For younger users, only 1 in 20 transactions needed any assistance at all.
+
+Finding 4: Elderly Users Are Locked Into One Channel
+Method	Elderly (60+)	Younger
+Cash Send (In-Store)	75%	10%
+ATM Cash Send	15%	10%
+Bank App Transfer	7%	50%
+EFT	3%	30%
