@@ -85,3 +85,44 @@ difference = round(elderly_fail_rate / young_fail_rate, 1)
 print(f"  Elderly failure rate:   {elderly_fail_rate}%")
 print(f"  Younger failure rate:   {young_fail_rate}%")
 print(f"  Elderly fail {difference}x more often than younger users")
+
+
+# -----------------------------------------------------------------
+# SECTION 3: Distance Traveled
+# -----------------------------------------------------------------
+print("\n🚶 DISTANCE TRAVELED TO COMPLETE A TRANSACTION")
+print("-" * 40)
+ 
+cur.execute("""
+    SELECT
+        CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
+        ROUND(AVG(distance_km), 2) AS avg_distance
+    FROM clean_transactions
+    GROUP BY is_elderly
+""")
+distance_results = cur.fetchall()
+ 
+for row in distance_results:
+    print(f"  {row[0]:<20} avg distance: {row[1]} km")
+ 
+elderly_dist = next(r[1] for r in distance_results if r[0] == "Elderly (60+)")
+young_dist = next(r[1] for r in distance_results if r[0] == "Younger")
+print(f"  Elderly travel {round(elderly_dist/young_dist, 1)}x further on average")
+ 
+# -----------------------------------------------------------------
+# SECTION 4: Third-Party Assistance
+# -----------------------------------------------------------------
+print("\n🤝 THIRD-PARTY ASSISTANCE REQUIRED")
+print("-" * 40)
+ 
+cur.execute("""
+    SELECT
+        CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
+        ROUND(AVG(needed_assistance) * 100, 1) AS pct_assistance
+    FROM clean_transactions
+    GROUP BY is_elderly
+""")
+assistance_results = cur.fetchall()
+ 
+for row in assistance_results:
+    print(f"  {row[0]:<20} needed help: {row[1]}% of transactions")
