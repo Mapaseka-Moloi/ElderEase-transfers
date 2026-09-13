@@ -126,3 +126,28 @@ assistance_results = cur.fetchall()
  
 for row in assistance_results:
     print(f"  {row[0]:<20} needed help: {row[1]}% of transactions")
+
+
+# -----------------------------------------------------------------
+# SECTION 5: Transaction Methods
+# -----------------------------------------------------------------
+print("\n💳 MOST USED TRANSACTION METHOD")
+print("-" * 40)
+ 
+cur.execute("""
+    SELECT
+        CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
+        method,
+        COUNT(*) AS count
+    FROM clean_transactions
+    GROUP BY is_elderly, method
+    ORDER BY is_elderly, count DESC
+""")
+method_results = cur.fetchall()
+ 
+current_group = None
+for row in method_results:
+    if row[0] != current_group:
+        current_group = row[0]
+        print(f"\n  {current_group}:")
+    print(f"    {row[1]:<30} {row[2]} transactions")
