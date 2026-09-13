@@ -1,6 +1,10 @@
 # ElderEase-transfers
-
 # ElderEase Transfers — Accessibility-First Transaction Analytics Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?logo=sqlite)
+![Pipeline](https://img.shields.io/badge/Pipeline-ETL-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## The Problem
 
