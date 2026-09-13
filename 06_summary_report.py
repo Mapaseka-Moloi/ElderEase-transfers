@@ -170,3 +170,4 @@ amount_results = cur.fetchall()
  
 for row in amount_results:
     print(f"  {row[0]:<20} avg amount: R{row[1]}")
+
