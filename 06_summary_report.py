@@ -195,3 +195,5 @@ for i, row in enumerate(peak_results, 1):
     print(f"  {i}. Day {row[0]} — {row[1]} transactions")
  
 print("\n  (Spike around days 25-28 aligns with pension pay-out dates)")
+
+
