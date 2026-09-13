@@ -197,3 +197,17 @@ for i, row in enumerate(peak_results, 1):
 print("\n  (Spike around days 25-28 aligns with pension pay-out dates)")
 
 
+# -----------------------------------------------------------------
+# CLOSING
+# -----------------------------------------------------------------
+print("\n" + "=" * 60)
+print("  KEY FINDING:")
+print("  Elderly users fail 3x more often, travel nearly double")
+print("  the distance, and almost half need a third person's help.")
+print("  This data justifies building an accessibility-first")
+print("  transfer solution for elderly South African users.")
+print("=" * 60)
+ 
+conn.close()
+
+
