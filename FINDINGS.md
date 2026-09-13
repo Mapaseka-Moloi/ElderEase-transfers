@@ -59,3 +59,10 @@ Navigating a till point process
 The receiver also traveling to collect with ID
 
 Every other channel (app, EFT) reduces or eliminates most of these requirements — but elderly users are largely not accessing them.
+
+Finding 5: Elderly Users Send Smaller Amounts
+Age Group	Average Amount Sent
+Elderly (60+)	R231.41
+Younger	R745.07
+
+Elderly senders send an average of R231 per transaction — roughly a third of what younger senders send (R745). This aligns with pension-linked behaviour: fixed monthly income, smaller regular transfers, often to children or grandchildren for school-related expenses. High transaction fees relative to small transfer amounts disproportionately affect this group.
