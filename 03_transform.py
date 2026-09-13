@@ -31,7 +31,7 @@ FROM raw_transactions
 cur.execute(query)
 conn.commit()
 
- elderly
+elderly
 cur.execute("SELECT COUNT(*) FROM clean_transactions")
 total = cur.fetchone()[0]
 
