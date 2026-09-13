@@ -1,4 +1,4 @@
-erEase Transfers — Data Findings Report
+ElderEase Transfers — Data Findings Report
 Overview
 
 This document summarises the key findings produced by the ElderEase Transfers data pipeline. The pipeline analysed 700 simulated transactions across two user groups — elderly senders (aged 60 and above) and younger senders — to quantify the accessibility gap in South Africa's current cash transfer ecosystem.
