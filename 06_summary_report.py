@@ -151,3 +151,22 @@ for row in method_results:
         current_group = row[0]
         print(f"\n  {current_group}:")
     print(f"    {row[1]:<30} {row[2]} transactions")
+
+
+# -----------------------------------------------------------------
+# SECTION 6: Average Amount Sent
+# -----------------------------------------------------------------
+print("\n💰 AVERAGE AMOUNT SENT")
+print("-" * 40)
+ 
+cur.execute("""
+    SELECT
+        CASE WHEN is_elderly = 1 THEN 'Elderly (60+)' ELSE 'Younger' END AS age_group,
+        ROUND(AVG(amount), 2) AS avg_amount
+    FROM clean_transactions
+    GROUP BY is_elderly
+""")
+amount_results = cur.fetchall()
+ 
+for row in amount_results:
+    print(f"  {row[0]:<20} avg amount: R{row[1]}")
