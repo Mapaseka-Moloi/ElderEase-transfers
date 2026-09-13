@@ -24,3 +24,16 @@ Elderly (60+)	7.28 km
 Younger	4.38 km
 
 Elderly senders travel an average of 7.28 km to reach a store that supports Cash Send — compared to 4.38 km for younger users. This is not a small inconvenience. For an elderly person with mobility limitations, walking or arranging transport for 7+ km to complete a single transaction (which may then fail) represents a significant physical and financial burden.
+
+Finding 3: Almost Half of Elderly Transactions Need a Third Person
+Age Group	% Needing Assistance
+Elderly (60+)	47.4%
+Younger	5.4%
+
+Nearly half of all elderly transactions required a third person's assistance to complete — a family member, neighbour, or carer who had to be involved in what should be a simple, private financial transaction. This dependency creates:
+
+A privacy risk (someone else knows how much money is being sent)
+A delay (the elderly sender must wait for someone to be available)
+An additional burden on the helper, who may have their own obligations
+
+For younger users, only 1 in 20 transactions needed any assistance at all.
